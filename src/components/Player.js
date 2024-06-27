@@ -108,7 +108,7 @@ const AudioPlayer = () => {
         <div>
             <div>
                 {playlist.map((song, index) => (
-                    <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ height:"50px",padding:"5px",backgroundColor:"transparent",color:"white",cursor: 'pointer', margin: '10px 0',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
+                    <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ height:"50px",padding:"5px",backgroundColor:"transparent",color:"white",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
                         {song.title}
                     </div>
                 ))}
