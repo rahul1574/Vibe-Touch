@@ -45,7 +45,7 @@ const AudioPlayer = () => {
         { title: "NUVVE NUVVE~Chitra, Vijay Prakash", src: "song37.mp3" },
         { title: "VINARAA~	Sachin Basrur", src: "song38.mp3" },
         { title: "KALALO KOODA~	Bhaskarabhatla,Tanishk Bagchi,Sid Sriram, Sagar, Vaishnavi Kovvuri", src: "song39.mp3" },
-        { title: "Theme of Kalki~", src: "song40.mp3" },
+        { title: "Theme of Kalki~Kaala Bhairava, Ananthu, Gowtham Bharadwaj", src: "song40.mp3" },
         // Add more songs as needed
     ];
 
