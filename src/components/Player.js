@@ -45,7 +45,6 @@ const AudioPlayer = () => {
         { title: "NUVVE NUVVE~Chitra, Vijay Prakash", src: "song37.mp3" },
         { title: "VINARAA~	Sachin Basrur", src: "song38.mp3" },
         { title: "KALALO KOODA~	Bhaskarabhatla,Tanishk Bagchi,Sid Sriram, Sagar, Vaishnavi Kovvuri", src: "song39.mp3" },
-        { title: "Theme of Kalki~Kaala Bhairava, Ananthu, Gowtham Bharadwaj", src: "song40.mp3" },
         // Add more songs as needed
     ];
 
@@ -121,7 +120,18 @@ const AudioPlayer = () => {
                             {formatTime(currentTime)} / {formatTime(duration)}
                         </p>
                         <progress value={currentTime} max={duration}></progress>
+                        <div id="controlbtn">
+                          <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
+                           {isPlaying ? (
+                          <button  className="songbtn"onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
+                           ) : (
+                         <button  className="songbtn"onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
+                         )}
+                          {/* <button  className="songbtn"onClick={stopHandler} disabled={currentSongIndex === null}>⏹️</button> */}
+                          <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
+                        </div>
                     </>
+                    
                 )}
             </div>
             <audio id='play'
@@ -132,16 +142,6 @@ const AudioPlayer = () => {
                 onPlay={() => setIsPlaying(true)}
                 controls
             />
-            <div id="controlbtn">
-                <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
-                {isPlaying ? (
-                    <button  className="songbtn"onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
-                ) : (
-                    <button  className="songbtn"onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
-                )}
-                {/* <button  className="songbtn"onClick={stopHandler} disabled={currentSongIndex === null}>⏹️</button> */}
-                <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
-            </div>
         </div>
         
     );
