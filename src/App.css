@@ -383,3 +383,7 @@ li{
   width: auto;
   background-color: #fb5607;
 }
+#image-size{
+  height: 50px;
+  width:50px;
+}
