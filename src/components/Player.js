@@ -107,15 +107,13 @@ const AudioPlayer = () => {
         <div>
             <div>
                 {playlist.map((song, index) => (
-                    <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ height:"60px",padding:"5px",backgroundColor:"transparent",color:"white",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
+                    <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ height:"60px",padding:"5px",backgroundColor:"transparent",color:"white",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"row",border:"1px solid black"}}>
                         {song.title}
                         <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ fontFamily:"Helvetica",color:"#8b8c89",display:"flex",flexDirection:"row",justifyContent:"space-between"}}>
                           {song.cast}
-                           {/* <div style={{height:"50px",width:"50px",backgroundColor:"white"}} >
-                           </div> */}
-                            <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"white"}}>
-                              <img id="image-size" src={song.image} alt=""/>  
-                            </div>
+                        </div>
+                        <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"white"}}>
+                            <img id="image-size" src={song.image} alt=""/>  
                         </div>
                     </div>
                 ))}
