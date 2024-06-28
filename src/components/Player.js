@@ -28,7 +28,7 @@ const AudioPlayer = () => {
         { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3" },
         { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3" },
-        { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image1.png",src: "song23.mp3" },
+        { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3" },
         { title: "LEHARAAYI",cast:"Sid Sriram", image:"image1.png",src: "song24.mp3" },
         { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3" },
         { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image1.png", src: "song26.mp3" },
