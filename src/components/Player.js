@@ -38,7 +38,7 @@ const AudioPlayer = () => {
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3" },
         { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image21.jpeg", src: "song31.mp3" },
         { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image7.jpg", src: "song32.mp3" },
-        { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image1.png", src: "song33.mp3" },
+        { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3" },
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image1.png", src: "song34.mp3" },
         { title: "CHANTI PILLALA",cast:"Suresh Banisetti,Anudeep Dev",image:"image1.png", src: "song35.mp3" },
         { title: "MY LOVE IS GONE",cast:"Chandrabose,Devi Sri Prasad",image:"image1.png", src: "song36.mp3" },
