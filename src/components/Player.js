@@ -25,7 +25,7 @@ const AudioPlayer = () => {
         { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
         { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
         { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3" },
-        { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image1.png", src: "song20.mp3" },
+        { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image1.png", src: "song21.mp3" },
         { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image1.png",src: "song22.mp3" },
         { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image1.png",src: "song23.mp3" },
