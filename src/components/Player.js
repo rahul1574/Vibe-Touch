@@ -42,7 +42,7 @@ const AudioPlayer = () => {
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image6.webp", src: "song34.mp3" },
         { title: "CHANTI PILLALA",cast:"Suresh Banisetti,Anudeep Dev",image:"image6.webp", src: "song35.mp3" },
         { title: "MY LOVE IS GONE",cast:"Chandrabose,Devi Sri Prasad",image:"image15.jpeg", src: "song36.mp3" },
-        { title: "NUVVE NUVVE",cast:"Chitra, Vijay Prakash",image:"image1.png", src: "song37.mp3" },
+        { title: "NUVVE NUVVE",cast:"Chitra, Vijay Prakash",image:"image21.jpeg"", src: "song37.mp3" },
         { title: "VINARAA",cast:"Sachin Basrur",image:"image1.png", src: "song38.mp3" },
         { title: "KALALO KOODA",cast:"Bhaskarabhatla,Tanishk,Sid Sriram",image:"image1.png", src: "song39.mp3" },
         { title: "Theme of kalki",cast:"Chandrabose,Kaala Bhairava, Gowtham",image:"image1.png", src: "song40.mp3" },
