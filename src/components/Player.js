@@ -1,3 +1,4 @@
+
 import './Style.css';
 import React, { useRef, useState, useEffect } from 'react';
 const AudioPlayer = () => {
@@ -103,6 +104,39 @@ const AudioPlayer = () => {
         return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
     };
 
+    const [isExpanded, setIsExpanded] = useState(false);
+    const [btnexpand,setbtnexpand]=useState(false)
+    const handleExpand = () => {
+        if (!isExpanded) {
+            if(!btnexpand)
+            setIsExpanded(true);
+            setbtnexpand(true)
+        }
+    };
+    const handleReset = () => {
+        setIsExpanded(false);
+        setbtnexpand(false);
+    };
+    const [color, setColor] = useState('#ffffff'); // Default color is white
+
+    useEffect(() => {
+      const interval = setInterval(() => {
+        const randomColor = getRandomColor();
+        setColor(randomColor);
+      }, 1500); // Change color every 2 seconds (adjust interval as needed)
+  
+      return () => clearInterval(interval);
+    }, []); // Empty dependency array ensures effect runs only once on mount
+  
+    const getRandomColor = () => {
+      const letters = '0123456789ABCDEF';
+      let randomColor = '#';
+      for (let i = 0; i < 6; i++) {
+        randomColor += letters[Math.floor(Math.random() * 16)];
+      }
+      return randomColor;
+    };
+  
     return (
         <div>
             <div>
@@ -120,9 +154,28 @@ const AudioPlayer = () => {
                 ))}
     
             </div>
-            <div id="nowplay">
+            <div  className={`nowplay ${isExpanded ? 'expanded' : 'collapsed'}`} >
+                {currentSongIndex==null && (
+                    <div id="man"  style={{ 
+                        backgroundColor: color, 
+                        display:"flex",
+                        flexDirection:"row",
+                        alignItems:"center",
+                        justifyContent:"space-evenly"
+                      }}>
+                        <div>
+                        <img id="play-walk" src="play-walk.gif" alt=" "/>
+                         </div>
+                      </div>
+                )}
                 {currentSongIndex !== null && (
                     <>
+                    <div>
+                       {isExpanded && <button className={`btn ${btnexpand ? 'expand' : 'collapse'}`}onClick={handleReset} style={{backgroundColor:"transparent",border:"none"}}><i class="fa-solid fa-xmark" style={{color:"black"}}></i></button>}
+                    </div>
+                    <button onClick={handleExpand} >
+                        <img id="image-play" src="play.gif" alt=" "/>
+                    </button>
                         <p>{playlist[currentSongIndex].title}</p>
                         <p>
                             {formatTime(currentTime)} / {formatTime(duration)}
