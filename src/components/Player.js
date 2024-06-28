@@ -43,7 +43,7 @@ const AudioPlayer = () => {
         { title: "CHANTI PILLALA",cast:"Suresh Banisetti,Anudeep Dev",image:"image6.webp", src: "song35.mp3" },
         { title: "MY LOVE IS GONE",cast:"Chandrabose,Devi Sri Prasad",image:"image15.jpeg", src: "song36.mp3" },
         { title: "NUVVE NUVVE",cast:"Chitra, Vijay Prakash",image:"image21.jpeg", src: "song37.mp3" },
-        { title: "VINARAA",cast:"Sachin Basrur",image:"image22.jpeg" src: "song38.mp3" },
+        { title: "VINARAA",cast:"Sachin Basrur",image:"image22.jpeg", src: "song38.mp3" },
         { title: "KALALO KOODA",cast:"Bhaskarabhatla,Tanishk,Sid Sriram",image:"image23.jpeg", src: "song39.mp3" },
         { title: "Theme of kalki",cast:"Chandrabose,Kaala Bhairava, Gowtham",image:"image24.jpeg", src: "song40.mp3" },
         // Add more songs as needed
