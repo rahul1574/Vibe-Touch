@@ -23,7 +23,7 @@ const AudioPlayer = () => {
         { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3" },
         { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3" },
         { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
-        { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image1.png",src: "song18.mp3" },
+        { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
         { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image1.png",src: "song19.mp3" },
         { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image1.png", src: "song20.mp3" },
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image1.png", src: "song21.mp3" },
