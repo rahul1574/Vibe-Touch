@@ -34,7 +34,7 @@ const AudioPlayer = () => {
         { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" },
         { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
-        { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image1.png",src: "song29.mp3" },
+        { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image1.png",src: "song30.mp3" },
         { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image1.png", src: "song31.mp3" },
         { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image1.png", src: "song32.mp3" },
