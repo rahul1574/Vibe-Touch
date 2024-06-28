@@ -111,13 +111,14 @@ const AudioPlayer = () => {
                         {song.title}
                         <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ fontFamily:"Helvetica",color:"#8b8c89",display:"flex",flexDirection:"row",justifyContent:"space-between"}}>
                           {song.cast}
+                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"white"}}>
+                             <img id="image-size" src={song.image} alt=""/>  
+                           </div>
                         </div>
                         
                     </div>
                 ))}
-            <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"white"}}>
-              <img id="image-size" src={song.image} alt=""/>  
-            </div>
+    
             </div>
             <div id="nowplay">
                 {currentSongIndex !== null && (
