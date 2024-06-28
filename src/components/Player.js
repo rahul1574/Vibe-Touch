@@ -36,7 +36,7 @@ const AudioPlayer = () => {
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
         { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3" },
-        { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image1.png", src: "song31.mp3" },
+        { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image21.jpeg", src: "song31.mp3" },
         { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image1.png", src: "song32.mp3" },
         { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image1.png", src: "song33.mp3" },
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image1.png", src: "song34.mp3" },
