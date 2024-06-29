@@ -1020,7 +1020,46 @@ Khadalaina Neekosam Neekosam
 Prema Ina Neekosam Neekosam
 Love You Ina Neekosam Neekosam
 Ishq Ina Neekosam Neekosam`},
-        { title: "LEHARAAYI",cast:"Sid Sriram", image:"image17.jpeg",src: "song24.mp3" },
+        { title: "LEHARAAYI",cast:"Sid Sriram", image:"image17.jpeg",src: "song24.mp3", lyrics :`
+
+Leharaayi leharaayi
+Leharaayi leharaayi
+Goruvechhanaina oosuladhiraayi
+Leharaayi leharaayi
+Goruvechhanaina oosuladhiraayi
+Inninaallu entha entha vechaayi
+Kallalone daagi unna ammaayi
+Sonthamalle cheruthuntey
+Praanamantha cheppaleni haayee
+Leharaayi leharaayi
+Gunde vechhanayye oohalegiraayi
+Leharaayi leharaayi
+Goruvechhanaina oosuladhiraayi
+Roju chekkilitho siggula thaguvaaye
+Roja pedhavulatho mudhdhula godavaaye
+Vanta gadhilo mantalannee
+Ontilokey omputhuntey
+Mari ninna monna ontiga unna
+Eedey nedey leharaayi
+Leharaayi leharaayi
+Gunde vechchanayye oohalegiraayi
+Leharaayi leharaayi
+Goruvechhanaina oosuladhiraayi
+Velapaalalaney marichey sarasaaley
+Thedhi vaaraaley
+Cheripey cherasaaley
+Chanuvu koncham penchukuntoo
+Thanuvu baruvey panchukuntoo
+Manalokam maikam ekam avuthu
+Ekaanthaaley leharaayi
+Leharaayi leharaayi
+Gunde vechchanayye oohalegiraayi
+Leharaayi leharaayi
+Goruvechhanaina oosuladhiraayi
+Inninaallu entha entha vechaayi
+Kallalone daagi unna ammaayi
+Sonthamalle cheruthuntey
+Praanamantha cheppaleni haayee`},
         { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3" },
         { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" },
         { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
