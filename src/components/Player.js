@@ -941,7 +941,32 @@ Nadumuni Melipeduthu Usute Thiyyaku
 
 Sogase Segale Pedithe Chedaradha Kunuku
 `},
-        { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3" },
+        { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3", lyrics :`Chiru navvee navvutu... nakosam vastavani
+chigurase reputu.... ni premanu testavani
+ninu vethikane.... nanne thake galulne araathistu
+niluchunna ne nikai veche tiranne araadistuu...
+prathi janma nithone...... iam waiting for u baby
+prathi janma nithone.... iam waiting for u babee...
+Oho Oho ooo ooo ooo.....
+Oho Oho ooo ooo ooo .....................|| Chiru navvee ||
+Nuvvu nenu....... Yekam ayye prema lona Ooo..
+ponge prelayam...... ninnu nannu vanchinchenaaa..
+puvve mullai katestonda.....aa aa aaa
+Nire nippi kalchestonda..... aa aa aaa
+vidinina veleyana... ninu gelicheyanaaa..
+nikosam niriksana... iam waiting for u babee
+prathi janma aa nithone.... iam waiting for u babe............
+Premane oke matey ...... aamelo gatinchinnda
+veedani bhayam edo .... gundane tholustonda
+aaa ohey thana madilo kalathalee repena
+vidinina veleyana.... ninu gelicheyanaaa..
+nikosam niriksana.... iam waiting for u babe.....
+Chiru navvee navvutu... nakosam vastavani
+chigurase reputu.... ni premanu testavani
+ninu vetikane.... nanne thake galulne aratistu
+niluchunna ne nikai veche tiranne aradistuu...
+prathi janma nithone...... iam waiting for u baby
+prathi janma nithone.... iam waiting for u babee...`},
         { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3" },
         { title: "LEHARAAYI",cast:"Sid Sriram", image:"image17.jpeg",src: "song24.mp3" },
         { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3" },
