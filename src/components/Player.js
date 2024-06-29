@@ -68,7 +68,50 @@ Toofan Toofan
 Yelugitthi Yegasi Thodagottinade
 Toofan Toofan
 Shivametthi Alala Padagetthinade` },
-        { title: "BAGUNTUNDHI NUVVU NAVVITHE",cast:"Nutana Mohan, Shekar,Sid Sriram",image:"image2.jpg", src: "song3.mp3" },
+        { title: "BAGUNTUNDHI NUVVU NAVVITHE",cast:"Nutana Mohan, Shekar,Sid Sriram",image:"image2.jpg", src: "song3.mp3", lyrics :`Baguntundhi nuvvu navvithe
+Baaguntundhi oosulaadithe
+Baaguntundhi gunde meedha
+Guvaalaaga nuvaa vaalithe
+Baguntundhi ninnu thaakithe
+Baagunthundhi nuvvu aapithe
+Baagunthundhi kantikunna
+Kaatukantha vontikantithe
+Baagundhi varaasa
+Neemidha koopam yenthundho thelusaa
+Laaliste thaggipothundhi bahusaa
+Ye manaasu premaa baanisa
+Eithe bujjaginchu kuntaane
+Ninne netthi nettukuntaane
+Nuvve cheppinaattu vintaane
+Cheeli cheeli jaalichoopave
+Thaadi cheseddhaam pedhavulaani
+Mudiveseddhaam manasulaani
+Dhachesukundhaam maatalaani
+Dhochesukundhaam haayini
+Kaadhantanenti chustu nee choraava
+Vaddhanna koddhi chestaavu godaava
+Nee nunchi nenu thappukovadam suluva
+Kowgillalloki laagava
+Ammo nuvvu gadusu kadha
+Anni neeku thelusukadha
+Ainaa bayaata padava kadha
+Paadha paadha yenthasepilaa
+Veliveseddhaam veluthuraani
+Paripaaliddhaam cheekatini
+Pattinchukundhaam chematalani
+Chuttesukundhaam premaani
+Nuvvemo peduthute thondharalu
+Naalona siggu chindaravandharaalu
+Andhangaa sarduthu naa mungurulu
+Moosaavu anni dharulu
+Konchem vadhilante ninnilaa
+Mottham jaaripovaa vennela
+Vere dhaarileka nenilaa
+Bandhinchaane anni vaipulaa
+Baguntundhi nuvvu navvithe
+Baaguntundhi oosulaadithe
+Baaguntundhi gunde meedha
+Guvaalaaga nuvaa vaalithe`},
         { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3" },
         { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3" },
         { title: "HOSAAHOREY",cast:"Ananth Sreeram,K.K., Lesle Lewis", image:"image5.jpeg",src: "song6.mp3",lyrics:`Hosahare... Hosahore...
