@@ -226,7 +226,57 @@ Naa alaka chitikalona`},
         Painunna jacksonu kindhiki diguthado
         Hosahare hosaho hosaho hosaho hosaho
         Hosaho hosaho hosaho hosaho hosaho`},
-        { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image15.jpeg", src: "song7.mp3" },
+        { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image15.jpeg", src: "song7.mp3" , lyrics:`Hey tip top dora kadhilindo
+Evadiki veedu dorakadulendo
+Mudhurando.. Gadusando.. Thodigenu musugando
+Uppu kappurambu nokka look nundo
+Veedi look chusi mosapovukando
+Edavando.. Badavando.. Valalo padakando
+Come on Come on.. Most cunningu
+Come on Come on.. Masth timingu
+Come on Come on.. rightla lo wrongu
+Come on Come on.. kothalalo kingu
+Come on Come on.. Marche thana rangu
+Come on Come on.. Pakka planningu
+Mr.Perfect Perfect.. He's Mr.Perfect
+Lense yesi vethuku dorakadhu ra ye defect (2)
+Eedo pedha edava
+Ee matter naaku matram telusu
+Veedi gurinchi cheppi cheppi naalikantha kandipoindi
+Kaani evadoo nammadu
+Paiga ee rojullo ilantooluku
+Demand konchem ekkuva
+Ayina inko sari try chestha
+Tappakunda eedi thaata teestha
+Sorry nenu good boy la undalanukuntunnaanu
+Anduke andari mundu kaalchanu
+Hip lipputhunna cat walk lendo
+Crocodile veedu kaalu jarakando
+Brute ando bright ando
+Live ye chusthundo
+Medi pandu lanti man veedando
+Man-hole lanti mind veedidhando
+Cheatando cheapando
+Gajibiji puzzle ando
+Come on Come on.. He's got a bag of tricks
+Come on Come on.. Beware you trendy chicks
+Come on Come on.. Heart hijacker nammodhe
+Come on Come on.. He's a jadhoogar
+Come on Come on.. He gives u fever
+Come on Come on.. He's a cool cracker taakkodhe
+Mr.Perfect Perfect.. He's Mr.Perfect (THATS RIGHT)
+Lense yesi vethuku dorakadhu ra ee defect
+Mr.Perfect Perfect.. He's Mr.Perfect
+Lense yesi vethuku dorakadhu ra ye defect
+Come on Come on.. Ori govindhu
+Come on Come on.. Veedu gurivindhu
+Come on Come on.. Sandhu dorikindho dhochesthadayyo
+Come on Come on.. Ariyabo sambo
+Come on Come on.. Regindhi pambo
+Come on Come on.. Veenni aapaali menako rambho..
+Mr.Perfect Perfect.. He's Mr.Perfect
+Lense yesi vethuku dorakadhu ra ye defect (2)
+`},
         { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3" },
         { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3" },
         { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3" },
