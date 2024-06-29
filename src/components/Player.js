@@ -567,7 +567,77 @@ Gaaliki kooda
 Gaaladanivvodhe
 Mana allari chuste nidharakaina
 Niddhara pattodhe`},
-        { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3" },
+        { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3", lyrics :`
+Kannullo Unnaavu
+Naa Kanti Paapavai
+Gundello Nindaavu
+Naa Gunde Savvadai
+Nee Ooha Naaku Oopirai
+Naaloki Cherukunnadhi
+Nee Peru Praananaadi Ayinadhi
+Oo Oo OoOo Oo
+Kannullo Unnaavu
+Naa Kanti Paapavai
+Gundello Nindaavu
+Naa Gunde Savvadai
+Ubhayakushala Chirajeevana
+Prasthutha Bharitha Manjulathara
+Shrungaare Sanchaare
+Adhraruchitha Madhurithabhaga
+Sudhanakanaka Prasamaniratha
+Baandhavye Mangalye
+Mamathamasaku Samadhasasatha
+Mudhamanasutha Sumanalayiva
+Susuthasahithagaamam
+Viraharahitha Bhaavam
+Aanandha Bhogam Aa
+Jeevakaalam Paashaanubandham
+Thaalaanukaalam
+Dhaivaanukoolam Kaamyaardhasiddhim
+Kaa Maye
+Hrudhayaanni Thaake
+Nee Navvu Naadhe
+Udhayaanni Dhaache
+Kurulinka Naave
+Odilona Vaale Nee
+Momu Naadhe
+Madhuraalu Dhoche
+Adharaalu Naave
+Neelo Parimalam
+Penchindhe Paravasham
+Nee Choopu Nunchi
+Prema Pongene
+Oo OoOo Oo Oho Ho
+Kannullo Unnaavu
+Naa Kanti Paapavai
+Gundello Nindaavu
+Naa Gunde Savvadai
+Edhedho Aasha
+Kadhilindhi Naalo
+Thelapaalanante
+Saripodhu Janma
+OoOo Ye Janmakainaa
+Untaanu Neelo
+Ye Chotanainaa
+Ninu Veedanamma
+Kaalam Mugisina Ee
+Bandham Mugiyunaa
+Nee Choopu Nunchi
+Prema Pongene
+Oo OoOo Oo Oho Ho
+Kannullo Unnaavu
+Naa Kanti Paapavai
+Gundello Nindaavu
+Naa Gunde Savvadai
+Nee Ooha Naaku Oopirai
+Naaloki Cherukunnadhi
+Nee Peru Praananaadi
+Ayinadhi
+Oo Oo OoOo Oo
+Kannullo Unnaavu
+Naa Kanti Paapavai
+Gundello Nindaavu
+Naa Gunde Savvadai`},
         { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3" },
         { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
         { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
