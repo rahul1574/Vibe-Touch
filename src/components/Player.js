@@ -235,7 +235,7 @@ const AudioPlayer = () => {
                 onEnded={onEndedHandler}
                 onPause={() => setIsPlaying(false)}
                 onPlay={() => setIsPlaying(true)}
-                controls loop
+                controls 
             />
         </div>
         
