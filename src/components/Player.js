@@ -967,7 +967,59 @@ ninu vetikane.... nanne thake galulne aratistu
 niluchunna ne nikai veche tiranne aradistuu...
 prathi janma nithone...... iam waiting for u baby
 prathi janma nithone.... iam waiting for u babee...`},
-        { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3" },
+        { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3", lyrics :`
+
+Hoo Terebin Jaana
+Kuchu Bhi Nahi Mai
+Ishq Me Mein Deewanaa
+Aalebaa Aalebaa
+Aale Aale Aale Aalebaa
+Nannananana Aalebaa
+Nannananana Aalebaa
+Nannananana Nannananana
+Nannananana Nannananana
+Ooo Adire Adire
+Nee Nallani Kaatuka Kalle Adire
+Adire Adire Naa Manase Eduru Chuse
+Chinnadana Neekosam
+O Chinnadana Neekosam
+Chinnadana Neekosam
+O Chinnadana Neekosam
+Nachave Nachave
+Antondi Manase Nimisham
+Edaina Emaina Vechunna Nenu
+Chinnavada Neekosam
+Chinnavada Neekosam
+Matalanni Neekosam
+Mounam Antha Neekosam
+Ooo Kuvvani Koyila Undade Raayila
+Kotha Paata Paaduthondila
+Tiyyani Haiyilo Telani Gaalilo
+Pellidaka Parichayam Ila
+Hey Etuvaipellina Ne Ninne Cherana
+Melipeduthu Ila Mudipadipona
+Oo Jaji Komme Na Chelli
+Jaavalile Padenuro
+Prema Ante Anthe Roo Anni Vinthe Ro
+Vekuvantha Neekosam
+Vennelantha Neekosam
+Oosulanni Neekosam
+Oopirundi Neekosamm
+Aalebaa Aalebaa
+Aale Aale Aale Aalebaa
+Ooo Prema Pusthakalalo Lene Leni Polika
+Raayatam Kadu Telika
+Maatale Ravu Ga Mouname Haayiga
+Bhavamaithe Boledundigaa
+Nee Navve Sutiga Telipinde Raayika
+Challe Tikamaka Alluku Pove
+Hoo Galilone Raasina
+Mana Prema Ithe Chedaradule
+Alala Aduguna Munigina Teeram Cherunule
+Khadalaina Neekosam Neekosam
+Prema Ina Neekosam Neekosam
+Love You Ina Neekosam Neekosam
+Ishq Ina Neekosam Neekosam`},
         { title: "LEHARAAYI",cast:"Sid Sriram", image:"image17.jpeg",src: "song24.mp3" },
         { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3" },
         { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" },
