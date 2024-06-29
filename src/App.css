@@ -230,7 +230,7 @@ p{
   height: 65px;
   width: 1550px;
   position: fixed;
-  bottom: 10px;
+  bottom: 8px;
   display: flex;
   flex-direction: row;
   justify-content:space-evenly;
