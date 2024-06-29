@@ -1090,7 +1090,44 @@ Mehbooba Main Teri Mehbooba
 Mehbooba Main Teri Mehbooba
 Mehbooba Oh Main Teri Mehbooba
 `},
-        { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" },
+        { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" , lyrics:`Vastha Ne Ventane
+Untaa Nee Ventane 
+Maatokati Cheppenthalo
+Payanaalu Modhalaayene
+
+Oh Prema Avasarama
+Maaye Nee (Maaye Nee) Ee Ee Ee
+Chirunaama (Chirunaama) Aa AaAa
+
+Manasantha Neeve Priya
+Virahaanni Champedhelaa
+Anthariksham Anchudhaaka
+Prema Thaakindhigaa
+
+Neetho Gnapakaale
+Ee Manchula Avi Karagave
+Ee Nee Parimalaale
+Gundelo Nindele
+
+Oh Prema (Oh Prema) Aa Aa
+Avasarama (Avasarama) Aa AaAa
+Maaye Nee (Maaye Nee) Ee Ee Ee
+Chirunaama (Chirunaama) Aa AaAa
+
+Itu Choodava Priyathama
+Edabaatu Anukokumaa
+Kaalikindhe Chikkukundhi
+Choodu Naa Praaname
+
+Dhooram Aaviraaye
+Nee Vechhani Nishwaasalo
+Nidhure Chedhirelope
+Thirigiraa Swapnamaa
+
+Oh Prema (Oh Prema) Aa Aa
+Avasarama (Avasarama) Aa AaAa
+Maaye Nee (Maaye Nee) Ee Ee Ee
+Chirunaama (Chirunaama) Aa AaAa`},
         { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
         { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
