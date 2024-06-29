@@ -501,7 +501,40 @@ Avunanavaa Avunanavaa Avunanavaa
 Manasunu Sambaalinchavaa
 Avunanavaa Avunanavaa Avunanavaa
 Maralaa Premaga Sameepinchavaa`},
-        { title: "CHIRUNAVVE VISIRAVE",cast:"Vijay Prakash",image:"image10.jpg", src: "song12.mp3" },
+        { title: "CHIRUNAVVE VISIRAVE",cast:"Vijay Prakash",image:"image10.jpg", src: "song12.mp3", lyrics:`Chirunavve visiraave nidurinche kalapai
+Sirimuvvai nadichaave ninukoreti ee gundepai
+Velugedo parichaave ninnu choosthunna naakallapai
+Chirunavve visiraave nidurinche kalapai
+Sirimuvvai nadichaave ninukoreti ee gundepai
+
+Sarada saradalenno andinchaave
+Samayam gurutheraani saavaasamtho
+Viraham cheralo nanne bhandinchaave
+Yepudu maruperaani nee andamtho
+Ahvanam pampinchave Anandam rappinchaave
+Reppallona thrulle choopultho
+Aaraatam vurinchaave momaatam maarinchaave
+Cheruvalona chese dooramtho
+Cheliyaa aa aaa aaa
+
+Chirunavve visiraave nidurinche kalapai
+Sirimuvvai nadichaave ninukoreti ee gundepai
+
+Asale vayase nannu tharimesthunte
+Apude yedurouthaavu em cheyyale
+Asali thadabatentani adigesthunte
+Sariga namminche badulem cheppale
+Thappedo chesthunnattu thappinchukuntunnattu
+Yennalinka kaalam gadapaale
+Neekosam nenunnattu neepranam nammetattu
+Evvarithona kaburampinchaale
+Cheliyaa aa aaa aaa
+
+Chirunavve visiraave nidurinche kalapai
+Sirimuvvai nadichaave ninukoreti ee gundepai
+Velugedo parichaave ninnu choosthunna naakallapai
+Chirunavve visiraave nidurinche kalapai
+Sirimuvvai nadichaave ninukoreti ee gundepai`},
         { title: "KALALLO",cast:"Ananta Sriram,Kulkarni, Madhushree",image:"image11.jpg", src: "song13.mp3" },
         { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3" },
         { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3" },
