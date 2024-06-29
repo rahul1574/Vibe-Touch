@@ -10,7 +10,24 @@ const AudioPlayer = () => {
     const [currentTime, setCurrentTime] = useState(0);
     const [duration, setDuration] = useState(0);
     const playlist = [
-        { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png"},
+        { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png", lyrics:`Yadagara yadagara dinkara
+Jagathike jyothiga nilawara
+
+Padamara nisitera valani
+Charithaga ghanathaga velagara
+
+Antuleni gamyamukadara
+Anthavaraku ledhika nidura
+Ashtadikku lanniyu adaara
+Amma kanna kalagapaadara
+
+Charithaga ghanathaga velagara
+Charithaga ghanathaga velagara
+
+Jananiga deevanam gelupuke
+Pusthakam neeshakam
+Dhaaga dhaaga kiranaamay
+Dharanipayi cheeyaraa santhakam`},
         { title: "TOOFAN",cast:"Ramajogayya Sastry,Prudhvi,Ravi Basrur", src: "Song2.mp3",image:"image1.png"  },
         { title: "BAGUNTUNDHI NUVVU NAVVITHE",cast:"Nutana Mohan, Shekar,Sid Sriram",image:"image2.jpg", src: "song3.mp3" },
         { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3" },
