@@ -769,7 +769,6 @@ Ninnu chuse ee kallaki..
 Lokamantha inka enduko..
 Rendu aksharala premaki..
 Inni siksha lendukoo..
-
 I love you..
 Naa oopiri aagipoyina..
 I love you..
@@ -778,12 +777,10 @@ I loove you..
 Naa oopiri aagipoyina..
 I love you..
 Naa pranam poyina..
-
 Uppenantha ee premaki..
 Guppedantha gunde yemito..
 Cheppaleni ee hayiki..
 Bhashe enduko..
-
 Kanuloki vasthavu..
 Kalalu narikesthavu..
 Secondukosaraina champestavu…
@@ -802,12 +799,10 @@ I loove you..
 Naa oopiri aagipoyina..
 I love you..
 Naa pranam poyina..
-
 Uppenantha ee premaki..
 Guppedantha gunde yemito..
 Cheppaleni ee hayiki..
 Bhashe enduko..
-
 Chinukule ninu thaaki merisipothanante ..
 Mabbule pogesi kalcheyana
 Chelakale ni paluku..
@@ -817,7 +812,6 @@ Ninnu kori poolu thakithe..
 Narukuthanu poola thotane
 Ninnu choosthe unna chotane..
 Thodestha aa kallane..
-
 I love you..
 Naa oopiri aagipoyina..
 I love you..
@@ -830,12 +824,53 @@ I loove you..
 Naa oopiri aagipoyina..
 I love you..
 Naa pranam poyina..
-
 Uppenantha ee premaki..
 Guppedantha gunde yemito..
 Cheppaleni ee hayiki..
 Bhashe enduko..`},
-        { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
+        { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3", lyrics :`Neeve Neeve… Neeve Neeve…
+Neeve Neeve… Neeve Neeve…
+Neeve Neeve… Neeve Neeve…
+Neeve Neeve… Neeve Neeve…
+Edaina nee tharuvathe anipisthundhey ila…
+Yemaina adhi nee valley jariguntundhey elaa
+Edhirosthuney Vunnavey, ne Ey daarilo velthunna
+Kadhilisthuney Vunnavey, ne nekantham lo Vunna
+Maripisthuney Vuntavey, nakem Yem em gurthosthunna
+Muripisthuney Vuntavey, na mundhey nuvvulekunna
+Neeve Neeve ... Neeve Neeve
+Neeve Neeve.... Neeve Neeve
+Follow him around.. above to the town..Baby check me with u, I am with u, show me all around..hey
+Follow him around.. above to the town..Baby check me with u, I am with u, show me all around
+Na na na na naa....
+Gonna get you gonna get you
+Na na na na naa....
+Gonna get you gonna gonna get you...
+Oka nimisham lo na santhosham,
+Oka nimisham lo na sandheham
+Nidhurana kuda hey ni dhyaanam
+vadhaladhu nanne oh nee roopam..
+Nuvvey….Nuvvey.. Nuvvey
+Alochisthu pichodnayya neney….cheliyaa
+Edhirosthuney Vunnavey, ne Ey daarilo velthunna
+Kadhilisthuney Vunnavey, ne nekantham lo Vunna
+Maripisthuney Vuntavey, nakem em em gurthosthunna
+Muripisthuney Vuntavey, na mundhey nuvvulekunna
+Neeve Neeve ... Neeve Neeve
+Neeve Neeve.... Neeve Neeve
+Nadakalu saagedhi nee vaipe…palukulu aagindhi nee valle..
+Evariki chebutunna nee oosey, chivariki neenayya nee laaney..
+Nuvvey……hey hey…Nuvvey..Nuvvey
+Chuttu antha thittesthunna neney…vinaney…
+Edhirosthuney Vunnavey, ne Ey daarilo velthunna
+Kadhilisthuney Vunnavey, ne nekantham lo Vunna
+Maripisthuney Vuntavey, nakem em em gurthosthunna
+Muripisthuney Vuntavey, na mundhey nuvvulekunna
+Neevey..Neevey..Neevey…..Neevey……..
+Neevey...Neevey..Neevey…..Neevey……..
+Yedhyna nee tharuvathey anipisthundhey ila…
+Yemaina adi nee valley jariguntundhey Yela…
+`},
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3" },
         { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3" },
         { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3" },
