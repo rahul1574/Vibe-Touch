@@ -638,7 +638,48 @@ Kannullo Unnaavu
 Naa Kanti Paapavai
 Gundello Nindaavu
 Naa Gunde Savvadai`},
-        { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3" },
+        { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3", lyrics :`Nee choopule naa oopiri
+Osarila choode cheli
+Amavasanai unna mari
+Andinchave deepavali
+Enduke cheliya reppala valalo odhigina kalala..
+Kanupapalu vethike repati velugunu chusi chudavela…
+Nayanam hrudayam neeve neevai
+Samayam venuke chesa payanam
+Tadupari janmakaina jaali chuse veelundhante
+Ee kshanaana oopiraapana…
+aaa.aaa…aa…aa…aaa…
+aaa.aaa…aa…aa…aaa…
+Roju kotthaga nee sandarshanam
+Ahaa annadi nalo spandanam
+Nithyam nuvvila nakai choodatam
+Entho vinthaga undhee anubhavam
+Nadi vesavi lo marigisthune muripisthonde ni challadanam
+Yedha mantantha dachesthu vennelayindhi prema gunam
+Neekai veche nittoorupule thoorupu kanee
+Nee thalapulalo talamunakavani enno janmalani
+Nayanam hrudayam neeve neevai
+Samayam venuke chesa payanam
+Tadupari janmakaina jaali chuse veelundhante
+Ee kshanaana oopiraapana…
+Nitho bandhame raasindevvaro
+Ninne nakila chupindevvaro
+Nanneevaipuga laagindevvaro
+Ninne choodaga aapindevvaro
+Daridaapullo padigapullo nilicha neerai darullo
+Tholi velugalle vastale kalise repati poddhullo
+Nee choopule naa oopiri
+Osarila choode cheli
+Amavasanai unna mari
+Andinchave deepavali
+Enduke cheliya reppala valalo odhigina kalala..
+Kanupapalu vethike repati velugunu chusi chudavela…
+Nayanam aa.. hrudayam aa.. neeve aa.. neevai aa..
+Samayam aa.. venuke aa.. chesa aa.. payanam
+Tadupari janmakaina jaali chuse veelundhante
+Ee kshanaana oopiraapana…
+aaa.aaa…aa…aa…aaa…
+aaa.aaa…aa…aa…aaa…`},
         { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
         { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
         { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3" },
