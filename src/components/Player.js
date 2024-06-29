@@ -1128,7 +1128,67 @@ Oh Prema (Oh Prema) Aa Aa
 Avasarama (Avasarama) Aa AaAa
 Maaye Nee (Maaye Nee) Ee Ee Ee
 Chirunaama (Chirunaama) Aa AaAa`},
-        { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
+        { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" , lyrics:`Premisthunna Aa Aa…
+Premisthunna Aa Aa…
+Nee Premalo O… Jeevisthunna Aa Aa…
+
+Aashaki Ivvaale Aayuvu Posaave
+Kotthaga Naa Brathuke Teepini Chesaave
+Ee Muddhu Mana Prema Guruthuga
+Manasuna Daachukuntane
+
+Mana Kathalaanti Maro Katha
+Charithalo Undadhantane
+
+Wo Aa…
+
+Premisthunna Aa Aa…
+Premisthunna Aa Aa…
+Nee Premalo O… Jeevisthunna Aa Aa…
+
+Nuvvu Edhure Nilabadithe
+Veligenule Naa Kantipapalu
+Oka Nimisham Vadhilelithe
+Kurisenule Kanneeti Dharalu
+
+Apudepudo Allukunna Bandhamidhi
+Chedharadhuga Cheragadhuga Aa...
+Muripemuga Penchukunna Prema Needhi
+Karagadhuga Tharagadhuga
+
+Maranamu Lenidhokkate
+Adhi Mana Prema Puttuke
+
+Premisthunna Aa Aa…
+Premisthunna Aa Aa…
+Nee Premalo O… Jeevisthunna Aa Aa…
+
+Nanu Epudu Maruvanani
+Parichaavule Chethullo Chethini
+Nanu Vadhili Brathakavani
+Telisindhile Naa Shwaase Nenani
+
+Nuvvu Tarachu Naa Oohallo Undipodam
+Manasukadhe Varamu Kadha
+Anuvanuvu Neelo Nanne Nimpukodam
+Pagati Kale Anavu Kadha
+
+Malinamu Leni Premaki
+Nuvvu Oka Saakshyamau Cheli
+
+Premisthunna Aa Aa…
+Premisthunna Aa Aa…
+Nee Premalo O… Jeevisthunna Aa Aa…
+
+Aashaki Ivvaale Aayuvu Posaave
+Kotthaga Naa Brathuke Teepini Chesaave
+Ee Muddhu Mana Prema Guruthuga
+Manasuna Daachukuntane
+
+Mana Kathalaanti Maro Katha
+Charithalo Undadhantane
+
+Wo Aa…`},
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
         { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3", lyrics:`feel my love feel my love
