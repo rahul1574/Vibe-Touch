@@ -12,23 +12,62 @@ const AudioPlayer = () => {
     const playlist = [
         { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png", lyrics:`Yadagara yadagara dinkara
 Jagathike jyothiga nilawara
-
 Padamara nisitera valani
 Charithaga ghanathaga velagara
-
 Antuleni gamyamukadara
 Anthavaraku ledhika nidura
 Ashtadikku lanniyu adaara
 Amma kanna kalagapaadara
-
 Charithaga ghanathaga velagara
 Charithaga ghanathaga velagara
-
 Jananiga deevanam gelupuke
 Pusthakam neeshakam
 Dhaaga dhaaga kiranaamay
 Dharanipayi cheeyaraa santhakam`},
-        { title: "TOOFAN",cast:"Ramajogayya Sastry,Prudhvi,Ravi Basrur", src: "Song2.mp3",image:"image1.png"  },
+        { title: "TOOFAN",cast:"Ramajogayya Sastry,Prudhvi,Ravi Basrur", src: "Song2.mp3",image:"image1.png", lyrics :`
+Toofan Toofan
+Yelugitthi Yegasi Thodagottinade
+Toofan Toofan
+Shivametthi Alala Padagetthinade
+Toofan Toofan
+Yelugitthi Yegasi Thodagottinade
+Toofan Toofan
+Shivametthi Alala Padagetthinade
+Sarrtrantu Veedu Adugesi
+Udyamisthe Aakaramaname
+Garrantu Gadhimi Garjisthe
+Jaladarinchu Bhoogamaname
+Oh Rocky Oh Rocky
+Oh Rocky Rocky Rocky
+Oh Rocky Oh Rocky
+Oh Rocky Rocky Rocky
+Hey Churrantu Churuku Muttinchu
+Arka Thejamagamaname
+Yerranchu Karaku Khadgala
+Shaturu Damanamaagamaname
+Rock Rock Rocky
+Rock Rock Rocky Rocky
+Rock Rock Rocky
+Rock Rock Rocky
+Nee Needalo Marujanmaga
+Dhairyaniki Jananam
+Bigithapina Pidikilliku
+Nerpinchara Jagadam
+Swaranam Malinam Veede Aa Rendu
+Yamudai Priyathamudai Chalagade
+Monagaadu
+Vairijanula Mucchamata Munchuta
+Veedu Neerchina Modhati Mucchata
+Vijrumbinchu Aa Sathuva Mundu
+Tu Kya Main Kya Hatja Hatja
+Toofan Toofan
+Yelugitthi Yegasi Thodagottinade
+Toofan Toofan
+Shivametthi Alala Padagetthinade
+Toofan Toofan
+Yelugitthi Yegasi Thodagottinade
+Toofan Toofan
+Shivametthi Alala Padagetthinade` },
         { title: "BAGUNTUNDHI NUVVU NAVVITHE",cast:"Nutana Mohan, Shekar,Sid Sriram",image:"image2.jpg", src: "song3.mp3" },
         { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3" },
         { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3" },
