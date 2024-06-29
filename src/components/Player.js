@@ -535,7 +535,38 @@ Sirimuvvai nadichaave ninukoreti ee gundepai
 Velugedo parichaave ninnu choosthunna naakallapai
 Chirunavve visiraave nidurinche kalapai
 Sirimuvvai nadichaave ninukoreti ee gundepai`},
-        { title: "KALALLO",cast:"Ananta Sriram,Kulkarni, Madhushree",image:"image11.jpg", src: "song13.mp3" },
+        { title: "KALALLO",cast:"Ananta Sriram,Kulkarni, Madhushree",image:"image11.jpg", src: "song13.mp3", lyrics:`Ne kalalo kooda anukoledhe
+Manasu isthavani
+Naa kannula ninda
+Rangu rangula kalalu testhavani
+Nee kaali muvvalu chese sadi
+Vintu gadipestaane
+Asalinko janma vundo ledo
+Manaki endukule
+Prathi rojoka janma anukuntune
+Preminchukundaame
+Asalinko janma vundo ledo
+Manaki endukule
+Prathi rojoka janma anukuntune
+Preminchukundaame
+Naa madhi tarapuna
+Ney chebuthunna
+Vadalanu vadalanu
+Ninnepudu
+Evarevarevaro emanukunna
+Okariki okaram manamipudu
+Nuvvu naa oopire
+Brathikedela vadilithe
+Gundelo vecchaga
+Daachanu kada andhuke
+Naa kalla mundu
+Nuvvu leni nimishamaina
+Adhorakam digulu
+Mana madhyaki doore
+Gaaliki kooda
+Gaaladanivvodhe
+Mana allari chuste nidharakaina
+Niddhara pattodhe`},
         { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3" },
         { title: "NEE CHOOPULE",cast:"Haricharan and K. S. Chithra",image:"image13.jpg", src: "song15.mp3" },
         { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
