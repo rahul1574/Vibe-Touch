@@ -722,7 +722,55 @@ nuvvunte edurantuu lede
 nuvvunte alupantuu raade
 nuvvunte e kashtaalaina ento ishtaale
 `},
-        { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
+        { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3",lyrics:`
+Samayamaa…
+Bhale Saayam Chesaavamma
+Ottugaa, Ottugaa
+Kanulake..!
+Thana Roopaannandhinchaave Guttuga
+O Idhi Saripodhaa
+Sare Sare Thondarapadako
+Thadupari Katha Etuko
+Etu Mari Thana Nadako
+Chivariki Evarenako
+Samayamaa…
+Bhale Saayam Chesaavamma
+Ottugaa, Ottugaa
+Kanulake..!
+Thana Roopaannandhinchaave Guttuga
+Ho, Thanu Evare?
+Nadiche Thaara, Thalukula Dhaara
+Thanu Choosthunte, Raadhe Niddhura
+Palike Yeraa, Kunuke Ouraa
+Alalai Ponge Andham
+Adhi Thana Peraa..!
+Aakaashaanne Thaagesindhe
+Thana Kannullo Neelam
+Choopullone Edho Indrajaalam
+Bangaru Vaanallo Ninda Munche Kaalam
+Choosthaamanukoledhe Naalotallam
+Bhoogolaanne Thippese
+Aa Bungamoothi Vainam
+Choopisthundhe Thanalo Inko Konam
+Changavi Chempallo
+Chengumantu Mounam
+Choosthu Choosthu
+Theesthu Undhe Praanam
+Thanu Cherina Prathi Chotila
+Chaala Chitrangunnadhe
+Thanatho Ilaa Prathi Gnapakam
+Chaaya Chitram Ayinadhe
+Sare Sare Thondarapadako
+Thadupari Katha Etuko
+Etu Mari Thana Nadako
+Chivariki Evarenako
+Samayamaa…
+Bhale Saayam Chesaavamma
+Ottugaa, Ottugaa
+Kanulake..!
+Thana Roopaannandhinchaave Guttuga
+O idhi Saripodhaa
+Samayamaa…` },
         { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3" },
         { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3" },
