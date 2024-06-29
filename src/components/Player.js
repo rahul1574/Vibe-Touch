@@ -226,7 +226,7 @@ Naa alaka chitikalona`},
         Painunna jacksonu kindhiki diguthado
         Hosahare hosaho hosaho hosaho hosaho
         Hosaho hosaho hosaho hosaho hosaho`},
-        { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image5.jpeg", src: "song7.mp3" },
+        { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image15.jpeg", src: "song7.mp3" },
         { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3" },
         { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3" },
         { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3" },
