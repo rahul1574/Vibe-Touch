@@ -443,60 +443,49 @@ Dheemthanana Dhirana
 Dheemthanana Dhirana
 Dheemthanana Dheemthanana
 Dhire Dhire Naa
-
 Dheemthanana Dhirana
 Dheemthanana Dhirana
 Dheemthanana Dheemthanana
 Dhire Dhire Naa
-
 Hmm Mm Mm 
 Emani Anaalani
 Thochani Kshanaalivi
 Ye Malupo Edurayye
 Payanamidhaa
-
 Aamani Nuvvenani
 Nee Jatha Cheraalani
 Ye Thalapo Modhalayye
 Mounamidhaa
-
 Evo Guruthulu Nannadige Prashnalaki
 Nuvve Badhulani Raagalanaa Nee Dhariki
 Vidigaa Thadigaa Viraboose Kalaki
 Cheliyaa Nee Kaanthi Nandhinchavaa
-
 Avunanavaa Avunanavaa Avunanavaa
 Manasunu Sambaalinchava
 Avunanavaa Avunanavaa Avunanavaa
 Maralaa Premaga Sameepinchavaa
-
 Hmm Mm Mm 
 Thelise Lope Nuvu Theliselope
 Cheli Cheyi Jaarindhe Prapancham
 Kaliselope Manam Kaliselope Ilaa
 Edabaatai Ragilinadhe Kaalam
-
 Kannedhute Vajraani Kanugontu Unna
 Vethikaane O Theeraalani
 Nijamedho Thelisaaka Ipudantu Unna
 Ennatiki Nuvu Kaavaalani
-
 Avunanavaa Avunanavaa Avunanavaa
 Manasunu Sambaalinchavaa
 Avunanavaa Avunanavaa Avunanavaa
 Maralaa Premaga Sameepinchavaa
-
 Avunanavaa Avunanavaa Avunanavaa
 Dheemthanana Dhirana
 Dheemthanana Dhirana
 Dheemthanana Dheemthanana
 Dhire Dhire Naa
-
 Dheemthanana Dhirana
 Dheemthanana Dhirana
 Dheemthanana Dheemthanana
 Dhire Dhire Naa
-
 Avunanavaa Avunanavaa Avunanavaa
 Manasunu Sambaalinchavaa
 Avunanavaa Avunanavaa Avunanavaa
@@ -506,7 +495,6 @@ Sirimuvvai nadichaave ninukoreti ee gundepai
 Velugedo parichaave ninnu choosthunna naakallapai
 Chirunavve visiraave nidurinche kalapai
 Sirimuvvai nadichaave ninukoreti ee gundepai
-
 Sarada saradalenno andinchaave
 Samayam gurutheraani saavaasamtho
 Viraham cheralo nanne bhandinchaave
@@ -516,10 +504,8 @@ Reppallona thrulle choopultho
 Aaraatam vurinchaave momaatam maarinchaave
 Cheruvalona chese dooramtho
 Cheliyaa aa aaa aaa
-
 Chirunavve visiraave nidurinche kalapai
 Sirimuvvai nadichaave ninukoreti ee gundepai
-
 Asale vayase nannu tharimesthunte
 Apude yedurouthaavu em cheyyale
 Asali thadabatentani adigesthunte
@@ -529,7 +515,6 @@ Yennalinka kaalam gadapaale
 Neekosam nenunnattu neepranam nammetattu
 Evvarithona kaburampinchaale
 Cheliyaa aa aaa aaa
-
 Chirunavve visiraave nidurinche kalapai
 Sirimuvvai nadichaave ninukoreti ee gundepai
 Velugedo parichaave ninnu choosthunna naakallapai
@@ -771,7 +756,85 @@ Kanulake..!
 Thana Roopaannandhinchaave Guttuga
 O idhi Saripodhaa
 Samayamaa…` },
-        { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3" },
+        { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3", lyrics :`
+Uppenantha ee premaki..
+Guppedantha gunde yemito..
+Cheppaleni ee hayiki..
+Ee bhashe enduko..
+Thiyyanaina ee badhaki..
+Uppu neeru kanta deniko
+Reppapatu duuranike..
+Viraham enduko..
+Ninnu chuse ee kallaki..
+Lokamantha inka enduko..
+Rendu aksharala premaki..
+Inni siksha lendukoo..
+
+I love you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+I loove you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+
+Uppenantha ee premaki..
+Guppedantha gunde yemito..
+Cheppaleni ee hayiki..
+Bhashe enduko..
+
+Kanuloki vasthavu..
+Kalalu narikesthavu..
+Secondukosaraina champestavu…
+Manchula untavu..
+Manta peduthuntavu..
+Venta padi naa manasu masi chesthavu..
+Theesukunte nuvu oopiri..
+Posukunta aayuve cheli
+Guchukoke mullu la mari..
+Gundello sara sari
+I love you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+I loove you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+
+Uppenantha ee premaki..
+Guppedantha gunde yemito..
+Cheppaleni ee hayiki..
+Bhashe enduko..
+
+Chinukule ninu thaaki merisipothanante ..
+Mabbule pogesi kalcheyana
+Chelakale ni paluku..
+Thirigi palikayante
+Tholakare lekunda paatheyana
+Ninnu kori poolu thakithe..
+Narukuthanu poola thotane
+Ninnu choosthe unna chotane..
+Thodestha aa kallane..
+
+I love you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+I loove you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+I loove you..
+Naa oopiri aagipoyina..
+I love you..
+Naa pranam poyina..
+
+Uppenantha ee premaki..
+Guppedantha gunde yemito..
+Cheppaleni ee hayiki..
+Bhashe enduko..`},
         { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
         { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3" },
         { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3" },
