@@ -1,6 +1,8 @@
-
 import './Style.css';
 import React, { useRef, useState, useEffect } from 'react';
+// import AudioPlay from 'react-h5-audio-player';
+// import 'react-h5-audio-player/lib/styles.css';
+
 const AudioPlayer = () => {
     const audioRef = useRef(null);
     const [isPlaying, setIsPlaying] = useState(false);
@@ -8,12 +10,42 @@ const AudioPlayer = () => {
     const [currentTime, setCurrentTime] = useState(0);
     const [duration, setDuration] = useState(0);
     const playlist = [
-        { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png" },
+        { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png"},
         { title: "TOOFAN",cast:"Ramajogayya Sastry,Prudhvi,Ravi Basrur", src: "Song2.mp3",image:"image1.png"  },
         { title: "BAGUNTUNDHI NUVVU NAVVITHE",cast:"Nutana Mohan, Shekar,Sid Sriram",image:"image2.jpg", src: "song3.mp3" },
         { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3" },
         { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3" },
-        { title: "HOSAAHOREY",cast:"Ananth Sreeram,K.K., Lesle Lewis", image:"image5.jpeg",src: "song6.mp3" },
+        { title: "HOSAAHOREY",cast:"Ananth Sreeram,K.K., Lesle Lewis", image:"image5.jpeg",src: "song6.mp3",lyrics:`Hosahare... Hosahore...
+        Saadhinche sattuva unnadhi gundelalo
+        Preminche mettani manasula moolalalo
+        Maa paata aksharamodalaka vinnado
+        Painunna jacksonu kindhiki diguthado
+        Hosahare hosahore hey.
+        Gundello na paata guitar ai mogindhe
+        Yeye yayiye yehe yayiye
+        Chetullo na raatha chappatlai cherindhe
+        Yehe yayiye yehe yayiye
+        Kashtam neeku nesthamavaga
+        Vijayam ninnu ishtapadadha
+        Nee sangeetham nee radham
+        Mundhuku saagupadha
+        Premanna aayudham toduga undhi kada
+        Hosaho hosaho hosahore hosaho... re
+        Ye desam lo aina sandesam maa paate
+        Yeye yayiye yehe he hey
+        Ye vedika pai aina veduka ra ma aate
+        Yehe yayiye yehe he he hey
+        Ningi nela nadi madhyana
+        Ponge ganga ma bhavana hey
+        Pedilla gonthulu kalasina kaalam idhe
+        Pedala vedini chaatina vela idhe he he he he hey
+        Hosahare hosahore
+        Saadhinche sattuva unnadhi gundelalo
+        Preminche mettani manasula moolalalo
+        Maa paata aksharamodalaka vinnado
+        Painunna jacksonu kindhiki diguthado
+        Hosahare hosaho hosaho hosaho hosaho
+        Hosaho hosaho hosaho hosaho hosaho`},
         { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image5.jpeg", src: "song7.mp3" },
         { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3" },
         { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3" },
@@ -136,7 +168,6 @@ const AudioPlayer = () => {
       }
       return randomColor;
     };
-  
     return (
         <div>
             <div>
@@ -181,6 +212,9 @@ const AudioPlayer = () => {
                             {formatTime(currentTime)} / {formatTime(duration)}
                         </p>
                         <progress value={currentTime} max={duration}></progress>
+                        { isExpanded && <div id="lyrics">
+                            <div id="flow">{playlist[currentSongIndex].lyrics}</div></div>}
+                        {isExpanded && <div id="hide"></div>}
                         <div id="controlbtn">
                           <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
                            {isPlaying ? (
@@ -201,7 +235,7 @@ const AudioPlayer = () => {
                 onEnded={onEndedHandler}
                 onPause={() => setIsPlaying(false)}
                 onPlay={() => setIsPlaying(true)}
-                controls
+                controls loop
             />
         </div>
         
