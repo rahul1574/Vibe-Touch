@@ -278,21 +278,6 @@ Mr.Perfect Perfect.. He's Mr.Perfect
 Lense yesi vethuku dorakadhu ra ye defect (2)
 `},
         { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3", lyrics:`
-O Rendu Prema Meghaalilaa Song Lyrics
-Digitalmarketing
-Digitalmarketing
-
-·
-Follow
-
-Jun 13, 2023
-
-Listen
-
-
-Share
-
-O Rendu Prema Meghaalilaa Lyrics
 Em maaye idi.. praayamaa
 
 Are ee lokame.. maayamaa
