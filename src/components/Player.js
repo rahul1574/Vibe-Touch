@@ -307,7 +307,97 @@ Saaginde daarantaa.. chelimike.. rujuvulaa
 Kanti reppa kanupaapalaagaa.. untaaremo kadadaaka
 
 Sandamaamaa sirivennelalaagaa.. vandellayinaa vidipokaa`},
-        { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3" },
+        { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3", lyrics :`Noota debbai aaru beach
+house lo prema devathaa
+Yellow chudidaar white
+chunni tho doche naa yedaa
+Oye oye antu
+casualga pilichero
+Oye oye twenty saarlu
+kallo kalisero
+Oye oye empty gunde
+ninda nilichero
+Oye oo oo
+Love at first sight
+naalo kalige
+Love at first sight
+nannu kadipe
+Love at first sight
+naake dorke
+Love at first sight
+nannu korike
+Noota debbai aaru beach
+house lo prema devathaa
+Roopamlona beautiful
+chethallona dutyful
+Maatallona fundamental
+Annitlona capable
+andarilona careful
+antheleni sentimental
+Cinemalo meriseti paapa
+citylona dorakadu raa
+Nijamgaane thagilenu thaara
+Vizag nagarapu chivarana
+Jhal jhal jarige
+love at first sight
+Chill kalige
+love at first sight
+Pal pal perige
+love at first sight
+paikedige
+Hey hey
+Dabbantene allergy
+bhakthantene energy
+Nammuthundi numerology
+Inti mundu nursery
+antaneedu allari
+Oppukodu humorology
+Oo
+Undaalsindi
+thana borderlo
+Cheraalsindi
+militarylo
+Edo undi
+something thanalo
+Laagindi
+manasunu chitikelo
+Some sambarame
+love at first sight
+Wah varame
+love at first sight
+Oo oo kshaname
+love at first sight
+o yugame
+Noota debbai aaru beach
+house lo prema devathaa
+Yellow chudidaar white
+chunni tho doche
+naa yedaa
+Oye oye
+antu casualga pilichero
+Oye oye
+twenty saarlu
+kallo kalisero
+Oye oye
+empty gunde
+ninda nilichero
+Oye oo oo
+Love at first sight
+naalo kalige
+Love at first sight
+nannu kadipe
+Love at first sight
+naake dorke
+Love at first sight
+nannu korike
+Love at first sight
+naalo kalige
+Love at first sight
+nannu kadipe
+Love at first sight
+naake dorke
+Love at first sight
+nannu korike`},
         { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3" },
         { title: "AVUNANAVAA",cast:"Ramajogayya Sastry,Sid Sriram",image:"image9.png", src: "song11.mp3" },
         { title: "CHIRUNAVVE VISIRAVE",cast:"Vijay Prakash",image:"image10.jpg", src: "song12.mp3" },
