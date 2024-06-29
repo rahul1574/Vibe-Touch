@@ -871,7 +871,76 @@ Neevey...Neevey..Neevey…..Neevey……..
 Yedhyna nee tharuvathey anipisthundhey ila…
 Yemaina adi nee valley jariguntundhey Yela…
 `},
-        { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3" },
+        { title: "SUTIGA CHOODAKU",cast:" Sreeram,Aravind Shankar,Saindhavi",image:"image16.jpeg", src: "song21.mp3", lyrics :`Aa AaAa AaAa AaAaa
+
+Sutiga Choodaku… Sudila Navvaku
+
+(Din Dinakau Dinna… Din Dinakau Dinna)
+
+(Din Dinakau Dinna… Din Dinakau Dinna)
+
+
+Eduruga Nilabaduthu Edhane Thinaku
+
+Nadumuni Melipeduthu Usute Thiyyaku
+
+Sogase Segale Pedithe Chedaradha Kunuku
+
+(Din Dinakau Dinna… Din Dinakau Dinna)
+
+(Din Dinakau Dinna… Din Dinakau Dinna)
+
+Sootiga Choodaku… Soodila Navvaku
+
+
+
+Ningilo Merupalle Thaakinadhi Nee Kalaa
+
+Nelapai Maharani Chesinadi Nannilaa
+
+Anthahpuram Santoshamai Veligindigaa
+
+Andaalane Minche Andam Marugeyaga
+
+Antha Neevalle Nimishamlo Maarindanta
+
+Banthipoovalle Naa Choope Vichhindanta
+
+Sootiga Choodaku Soodhila Navvaku
+
+
+
+(Seetha Kalyana Vaibhogame)
+
+(Rama Kalyana Vaibhogame)
+
+(Gouri Kalyana Vaibhogame)
+
+(Lakshmi Kalyana Vaibhogame)
+
+
+Gantalo Modalaindi Kaadu Ee Bhaavana
+
+Gatha Janmalo Kadilindho Emo Mana Madhyana
+
+Undundi Naa Gundello Ee Eduremito, Oo
+
+Indaakilaa Undaa Mari Epudendhuko
+
+Neelo Ee Aasha Kalakaalam Jeevinchaali
+
+Neetho Janmantha Ee Rojalle Undaali
+
+
+
+Sootiga Choodaku Soodhila Navvaku
+
+Eduruga Nilabaduthu Edhane Thinaku
+
+Nadumuni Melipeduthu Usute Thiyyaku
+
+Sogase Segale Pedithe Chedaradha Kunuku
+`},
         { title: "WAITING FOR YOU",cast:"Vanamali,K.K.", image:"image7.jpg",src: "song22.mp3" },
         { title: "CHINNADANA NEEKOSAM",cast:"Krishna Chaitanya,Raj Hasan,Sravani", image:"image16.jpeg",src: "song23.mp3" },
         { title: "LEHARAAYI",cast:"Sid Sriram", image:"image17.jpeg",src: "song24.mp3" },
