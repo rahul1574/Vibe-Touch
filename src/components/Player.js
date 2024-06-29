@@ -1189,7 +1189,25 @@ Mana Kathalaanti Maro Katha
 Charithalo Undadhantane
 
 Wo Aa…`},
-        { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
+        { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3", lyrics :`Manasa Manako Selave Selavu
+
+Musire Usulu Kanavaa?
+Yedhaki Oka Gaayam
+Vadhalamandhi Praanam
+Chelimi Vidi Pantham
+Evaru Ika Sontham
+Kalatha Padi Hrudhayam
+Karaganandhi Mounam
+Gathamu Vidi Paasham
+Yedhi Ika Bandham
+Hey! Innaallu Nannu
+Vennanti Unna Needa Neevuga
+Konnaalle Antu Korindhi Nanne
+Veedamandhigaa
+Ninu Talache Prathi Thalape
+Pranayaana Sodhana
+Nanu Mariche Marukshaname
+Virahana Vedhana`},
         { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3", lyrics:`feel my love feel my love
 naa premanu kopam gaano
