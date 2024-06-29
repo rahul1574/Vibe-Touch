@@ -1270,7 +1270,38 @@ aa painaa okka saari hrudayam antu neekokatunte feel my love
 feel my love…feel my love
 
 feel my love…feel my love`},
-        { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image21.jpeg", src: "song31.mp3" },
+        { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image21.jpeg", src: "song31.mp3" , lyrics:`Manasantha mukkalu chesi pakkaku velathavenduku o nestham
+Vurinchi vuhalu penchi thappukupothavenduku aa pantham
+Neekai neekai pranalisthananna
+Inka inka alusai pothunnana
+Porapatunte manninchave…
+Manasantha mukkalu chesi pakkaku velathavenduku o nestham
+Vurinchi vuhalu penchi thappukupothavenduku aa pantham
+
+Virisina puvvula komma thanu penavesina oka remma
+Evaro thenchesthuvunte voppukuntadaa
+Budu budi adugula paapaina thanu aadukunedoka bommaina
+Evaro laagesukunte vurukuntadaa
+Nuvu nachhi manasichhi ipudikka idi chusthunte
+Kanupaapallo kunukundade…ooo..oo
+Manasantha mukkalu chesi pakkaku velathavenduku o nestham
+Vurinchi vuhalu penchi thappukupothavenduku aa pantham
+
+Veluthuru vunnapudega nee venukane vuntadi needa
+Vuntaa nadiraathiraina neeku thodugaa
+Chigurulu thinnapudega aa kuhu kuhu koyila paata
+Avutha nee gundelayaga annivelala
+Ninu kora itu chera nuvu yetuvaipo adugesthe
+Yedalothullo kudurundade..ooo..oooo
+
+Manasantha……
+Manasantha mukkalu chesi pakkaku velathavenduku o nestham
+Vurinchi vuhalu penchi thappukupothavenduku aa pantham
+Neekai neekai pranalisthananna
+Inka inka alusai pothunnana
+Porapatunte manninchave…
+Manasantha mukkalu chesi pakkaku velathavenduku o nestham
+Vurinchi vuhalu penchi thappukupothavenduku aa pantham`},
         { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image7.jpg", src: "song32.mp3" },
         { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3" },
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image6.webp", src: "song34.mp3" },
