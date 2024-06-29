@@ -247,8 +247,10 @@ p{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-size: 10px;
+  font-size: 14px;
   overflow: hidden;
+  overflow-y: scroll;
+  scrollbar-width: none;
 }
 #man{
   height: 65px;
@@ -401,9 +403,9 @@ li{
   color: white;
   /* background-color: #fb5607; */
 }
-#flow{
+/* #flow{
   animation: move 180s linear infinite;
-}
+} */
 @keyframes move {
   0%{
     transform: translateY(0);
@@ -444,4 +446,10 @@ li{
 #image-play{
   height: 30px;
   width:30px;
+}
+.box{
+  transition: transform 2s ease;
+}
+.box:active{
+  transform: scale(0);
 }
