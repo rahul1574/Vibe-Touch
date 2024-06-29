@@ -398,7 +398,60 @@ Love at first sight
 naake dorke
 Love at first sight
 nannu korike`},
-        { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3" },
+        { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3",lyrics:`Puttene premaa
+Padagottene premaa
+Emjesaavo emogadammaa
+Inthalo premaa anthalo komaa
+Athalaakuthalam avuthunnaanammaa
+Nee perento cheppu
+Konchem ottesukunta
+Nee oorento cheppu
+Pette sardhesukunta
+Cellu numberni cheppu
+Ringu ichhesukunta
+Manchi date unte cheppu
+Pelli chesesukunta
+Puttene Puttene
+Puttene premaa padagottene premaa
+Emjesaavo emogadammaa
+Inthalo premaa anthalo komaa
+Athalaakuthalam avuthunnaanammaa
+Katthulatho eppudu
+Kallolamgaa unde dhaarullo
+Puvvulaaga merisaave
+Moga purugulatho chiraakugaa
+Unde jeevithamlo
+Aada vaasanipude choopaave
+Nee caste yento cheppu
+Nenu maarchesukunta
+Nee tastento cheppu
+Nenu vanta nerchesukunta
+Nuvvu cheppedhi cheppu
+Nenu oppesukunta
+Naannakappunte cheppu
+Nenu teerchesukunta
+Puttene Puttene
+Puttene premaa padagottene premaa
+Emjesaavo emo gadammaa
+Domatera laaga ussoorani
+Unde naa life
+Vendi tera chesaave
+Okka navvuthone kundi laanti
+Bujji gundelona
+Prema vithanaale jallesaave
+Nee ishtaalu jeppu
+Listu raasesukunta
+Nee kashtaalu jeppu
+Netthimeedesukunta
+Emi kaavaalo jeppu
+Giftu ichchesukunta
+Nuvvu kaadhante jeppu
+Nenu uresukunta
+Puttene Puttene
+Puttene premaa padagottene premaa
+Emjesaavo emogadammaa
+Inthalo premaa anthalo komaa
+Athalaakuthalam avuthunnaanammaa` },
         { title: "AVUNANAVAA",cast:"Ramajogayya Sastry,Sid Sriram",image:"image9.png", src: "song11.mp3" },
         { title: "CHIRUNAVVE VISIRAVE",cast:"Vijay Prakash",image:"image10.jpg", src: "song12.mp3" },
         { title: "KALALLO",cast:"Ananta Sriram,Kulkarni, Madhushree",image:"image11.jpg", src: "song13.mp3" },
