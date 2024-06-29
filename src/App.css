@@ -240,6 +240,16 @@ p{
   /* position: relative;
   right:1500px; */
 }
+#lyrics{
+  height: 250px;
+  width: 200px;
+  /* background-color: white; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 10px;
+  overflow: hidden;
+}
 #man{
   height: 65px;
   width: 1550px;
@@ -249,10 +259,10 @@ p{
   height: 70px;
 }
 .expanded {
-  height: 672px; /* Desired final height */
+  height: 670px; /* Desired final height */
 }
 .collapsed {
-  height: 65px; /* Initial height */
+  height: 70px; /* Initial height */
 }
 @media (max-width:1000px) {
   #text{
@@ -288,7 +298,7 @@ p{
     bottom:90px;
   }
   .expanded {
-    height: 689px; /* Desired final height */
+    height: 635px; /* Desired final height */
   }
   .collapsed {
     height: 90px; /* Initial height */
@@ -301,7 +311,13 @@ p{
   #play-walk{
     height: 80px;
   }
-  
+  #lyrics{
+    width:150px;
+    /* height:300px; */
+  }
+  #hide{
+    height: 100px;
+  }
 }
 /* .expand{
   height: 20px;
@@ -384,6 +400,9 @@ li{
   width: auto;
   color: white;
   /* background-color: #fb5607; */
+}
+#flow{
+  animation: move 180s linear infinite;
 }
 @keyframes move {
   0%{
