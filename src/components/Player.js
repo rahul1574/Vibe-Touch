@@ -1208,7 +1208,37 @@ Ninu Talache Prathi Thalape
 Pranayaana Sodhana
 Nanu Mariche Marukshaname
 Virahana Vedhana`},
-        { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
+        { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" , lyrics:`Em cheppanu ninnelaa aapanuu
+O praanamaa ninnelaa vadalanuu
+Ea prasnanu evarinem adaganuu
+O mounamaa ninnelaa daatanuu
+Pedaala paina navvu poota poosukunna nene
+Kanneetito ivvela daannelaa cherapanuu
+Ee premaaki emitee vedukaa
+E janmakee jantagaa undakaa
+Em cheppanu ninnelaa aapanuu
+O praanamaa ninnelaa vadalanuu
+Idivarakalavaatu lenidee
+Manasuki ee mamata kottadee
+Dorakaka dorikindi ganaka chejaarutunte em tochakunnadee
+Voorinchina neeli mabbunee
+Oohinchani gaali taakidi
+Etu vaipo tarumutunte kallara choostu ellaa maree
+Edaari vaipu vellakantu aapi vaana chelinee
+Tadaarutunna gundeloki raa rammanee
+Tana venta padi itu teesukuraalevaa oopiree
+Ee premaaki emitee vedukaa
+E janmakee jantagaa undakaa
+Naa mansuna chotu chinnadee
+Oka varame korukunnadee
+Adagakane cherukundi madi moyaleni anubandhamai adee
+Nuvvicchina sampade idee naa chuttu allukunnadee
+Ninu kooda nilipi unchagala veeluleni irukainadee
+Sudooramaina aasalenno cheruvavatu unnaa
+Avandukonu ninnu veedi ne vellanaa
+Pondedi edo potunnadedo edo telchedevvaroo
+Ee premaaki emitee vedukaa
+E janmakee jantagaa undakaa`},
         { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3", lyrics:`feel my love feel my love
 naa premanu kopam gaano
 naa premanu dwesham gaano
