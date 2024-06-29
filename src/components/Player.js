@@ -680,7 +680,48 @@ Tadupari janmakaina jaali chuse veelundhante
 Ee kshanaana oopiraapana…
 aaa.aaa…aa…aa…aaa…
 aaa.aaa…aa…aa…aaa…`},
-        { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3" },
+        { title: "EDO PRIYA RAGAM VINTUNNA",cast:"Sirivennela Seetharama Sastry,Sumangali", image:"image14.jpeg",src: "song17.mp3", lyrics :`yedo priyaraagam vintunnaa chirunavullo
+premaa aa sandadi needenaa
+yedo nava naatyam choostunnaa sirimuvvallo
+premaa aa savvadi needenaa
+ittaage kalakaalam choodaalanukuntunnaa
+itupaina ee swapnam kariginchaku emaina
+premaa o premaa chirakaalam naavente
+nuvvunte nijamegaa swapnam
+nuvvunte prati maata satyam
+nuvvunte manasantaa edo teeyani sangeetam
+nuvvunte prati adugu andam
+nuvvunte prati kshanamu swargam
+nuvvunte ika jeevitamantaa edo santosham
+
+paata paadada mounam puri vippi aadada praanam
+adavinaina poodota cheyada premabaatalo payanam
+daarichoopada soonyam aracheta vaalada swargam
+elladaati paravallu tokkada velluvaina aanandam
+premaa nee saawaasam naa swaasaku sangeetam
+premaa nee saannidhyam naa oohala saamraajyam
+premaa o premaa gundello kalakaalam
+nuvvunte prati aasa sontam
+nuvvunte chirugaale gandham
+nuvvunte endaina kaada challani saayantram
+nuvvunte prati maata vedam
+nuvvunte prati paluku raagam
+nuvvunte chirunavvulatone nindenu ee lokam
+
+unnachota unnaana aakasamandukunnaana
+cheliyaloni ee kotta sambaram naaku rekka todigena
+munigi telutunnaana ee mucchataina muripaana
+aameloni aananda saagaram nannu munchu samayaana
+hariville nannalle ee rangulu nee valle
+sirimallela vaagalle ee vennela neevalle
+premaa o premaa idi saaswatamanukona
+nuvvunte digulantuu raade
+nuvvunte velugantuu pode
+nuvvunte mari maatalu kooda paataipotaaye
+nuvvunte edurantuu lede
+nuvvunte alupantuu raade
+nuvvunte e kashtaalaina ento ishtaale
+`},
         { title: "SAMAYAMA",cast:"Anantha Sriram,Kulkarni,Krishnakumar", image:"image4.jpg",src: "song18.mp3" },
         { title: "UPPENANTHA",cast:"Balaji,Devi Sri Prasad & KK", image:"image15.jpeg",src: "song19.mp3" },
         { title: "NEEVE",cast:"Ananth Sreeram,G. V. Prakash Kumar",image:"image5.jpeg", src: "song20.mp3" },
@@ -693,7 +734,37 @@ aaa.aaa…aa…aa…aaa…`},
         { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
         { title: "EM CHEPPANU",cast:"Sirivennela,Seetarama Sastry,Karthik", image:"image20.jpeg",src: "song29.mp3" },
-        { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3" },
+        { title: "FEEL MY LOVE",cast:"Chandrabose,KK, Clinton Cerejo", image:"image14.jpeg",src: "song30.mp3", lyrics:`feel my love feel my love
+naa premanu kopam gaano
+naa premanu dwesham gaano
+naa premanu saapam gaano cheliyaa  feel my love
+naa premanu bharam gaano
+naa premanu dooram gaano
+naa premanu neram gaano sakhiyaa  feel my love
+naa premanu mounaamu gaano
+naa premanu heenaam gaano
+naa premanu Soonyam gaano kaado ledo edo gaano
+feel my love feel my love
+feel my love feel my love
+
+nenicche lekhalanni chinchestuu  feel my love
+ne pampe puvvulane visirestuu  feel my love
+ne cheppe kavitalanni chii kodutu  feel my love
+naa chilipi cheshtalake visgoste  feel my love
+naa uluke nacchadantuu naa oohe raadani
+nenaante gittadu antuu naa maate chedani
+naa jante cheranantu antuu antuu anukuntune feel my love
+
+yerupekki choostuune kallaaraa feel my love
+yedoti tidutuune noraaraa feel my love
+vidilinchi kodutoone cheyyaaraa feel my love
+vadilesi velutoone adugaaraa feel my love
+adugulake alasatoste chetiki sramaperigite
+kannulake kunuku vaste pedavula palukaagite
+aa painaa okka saari hrudayam antu neekokatunte feel my love
+feel my love…feel my love
+
+feel my love…feel my love`},
         { title: "MANASANTA MUKKALU CHESI",cast:"KK",image:"image21.jpeg", src: "song31.mp3" },
         { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image7.jpg", src: "song32.mp3" },
         { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3" },
