@@ -226,7 +226,7 @@ Naa alaka chitikalona`},
         Painunna jacksonu kindhiki diguthado
         Hosahare hosaho hosaho hosaho hosaho
         Hosaho hosaho hosaho hosaho hosaho`},
-        { title: "MR. PERFECT",cast:"Kedar,Baba Sehgal, Devi Sri Prasad & Rita",image:"image15.jpeg", src: "song7.mp3" , lyrics:`Hey tip top dora kadhilindo
+        { title: "MR. PERFECT",cast:"Kedar,Babavi Sri Prasad & Rita",image:"image15.jpeg", src: "song7.mp3" , lyrics:`Hey tip top dora kadhilindo
 Evadiki veedu dorakadulendo
 Mudhurando.. Gadusando.. Thodigenu musugando
 Uppu kappurambu nokka look nundo
@@ -277,7 +277,51 @@ Come on Come on.. Veenni aapaali menako rambho..
 Mr.Perfect Perfect.. He's Mr.Perfect
 Lense yesi vethuku dorakadhu ra ye defect (2)
 `},
-        { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3" },
+        { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3", lyrics:`
+O Rendu Prema Meghaalilaa Song Lyrics
+Digitalmarketing
+Digitalmarketing
+
+·
+Follow
+
+Jun 13, 2023
+
+Listen
+
+
+Share
+
+O Rendu Prema Meghaalilaa Lyrics
+Em maaye idi.. praayamaa
+
+Are ee lokame.. maayamaa
+
+Vere ye dhyaasaa lede.. aa gundello
+
+Verayye oose raade.. tulle aasallo
+
+Iddaridi.. oke prayaanamgaa
+
+Iddaridi.. oke prapanchamgaa
+
+Aa iddari.. oopiri.. okatayindi.. mellagaa.. mellagaa
+
+O rendu prema meghaalilaa.. dookaayi vaanalaagaa
+
+Aa vaana vaalu ye vaipuko.. telchedi kaalamegaa
+
+O rendu prema meghaalilaa.. dookaayi vaanalaagaa
+
+Aa vaana vaalu ye vaipuko.. telchedi kaalamegaa
+
+Tochinde.. ee janta.. kalalake.. nijamulaa
+
+Saaginde daarantaa.. chelimike.. rujuvulaa
+
+Kanti reppa kanupaapalaagaa.. untaaremo kadadaaka
+
+Sandamaamaa sirivennelalaagaa.. vandellayinaa vidipokaa`},
         { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3" },
         { title: "PUTTENE PREMA",cast:"Ram Miriyala",image:"image8.jpeg", src: "song10.mp3" },
         { title: "AVUNANAVAA",cast:"Ramajogayya Sastry,Sid Sriram",image:"image9.png", src: "song11.mp3" },
