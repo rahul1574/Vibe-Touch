@@ -1345,7 +1345,53 @@ Povodhe povodhe premaa
 Nuvvunte neenunta premaa
 
 Povodhe povodhe prema`},
-        { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3" },
+        { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3", lyrics :`Ta na na na na na Ta na na na na na
+
+Pranama pranama...
+arey sandramlaga pongaave eerojuna
+Siri varsham laaga kurisave edachatuna
+Choopulatho emcheppave anthaga
+Oopiritho mudipettave vinthaga
+
+Ta na na na na na
+
+Ninna monna leni santhoshala baani
+Vintunnane mellaga eechota
+China pedda cheri choosthu unna gaani
+Aagelaaga ledika nee aata
+
+Dooranne dooranga toosave mounanga
+Praayalu pulakinchu ee malupulo
+
+Sa pa ma pa da ma ga
+ma ma pa da ma ga
+
+Sa pa ma pa da ma ga
+ma ma pa da ma ga
+Ni da ni ma da ma pa
+
+pa ma pa da ma ga
+ma ma pa da ma ga
+Ni da ni ma da ma pa
+Ga ma pa ni sa sa ni ni sa sa ni ni ni da sa ni da
+Sa ni sa sa ni ma di sa sa ni sa ga ni da pa ma da ma ri ma ri sa ri sa
+
+Ta na na na na na
+
+Gilli kajjalanni malli gurtocheyla
+Gadichayamma rojulu hayi hayiga
+Ennalaina gaani epudugurtundela
+Nilichayamma navvulu ee teeyaga ho…
+
+Ee janma lo naina ye janma lonaina tana janta ga nannu nadipinchaga
+
+Pranama pranama pranama
+Pranama pranama arey sandramlaga pongaave eerojuna
+Siri varsham laaga kurisave edachatuna
+Choopulatho emcheppave anthaga
+Oopiritho mudipettave vinthaga
+
+Tana nana nana`},
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image6.webp", src: "song34.mp3" },
         { title: "CHANTI PILLALA",cast:"Suresh Banisetti,Anudeep Dev",image:"image6.webp", src: "song35.mp3" },
         { title: "MY LOVE IS GONE",cast:"Chandrabose,Devi Sri Prasad",image:"image15.jpeg", src: "song36.mp3" },
