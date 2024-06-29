@@ -249,7 +249,7 @@ p{
   height: 70px;
 }
 .expanded {
-  height: 670px; /* Desired final height */
+  height: 672px; /* Desired final height */
 }
 .collapsed {
   height: 65px; /* Initial height */
@@ -288,7 +288,7 @@ p{
     bottom:90px;
   }
   .expanded {
-    height: 687px; /* Desired final height */
+    height: 689px; /* Desired final height */
   }
   .collapsed {
     height: 90px; /* Initial height */
