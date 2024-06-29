@@ -279,33 +279,19 @@ Lense yesi vethuku dorakadhu ra ye defect (2)
 `},
         { title: "O RENDU PREMA MEGHAALILA",cast:"Ananta Sriram,Sreerama Chandra",image:"image6.webp", src: "song8.mp3", lyrics:`
 Em maaye idi.. praayamaa
-
 Are ee lokame.. maayamaa
-
 Vere ye dhyaasaa lede.. aa gundello
-
 Verayye oose raade.. tulle aasallo
-
 Iddaridi.. oke prayaanamgaa
-
 Iddaridi.. oke prapanchamgaa
-
 Aa iddari.. oopiri.. okatayindi.. mellagaa.. mellagaa
-
 O rendu prema meghaalilaa.. dookaayi vaanalaagaa
-
 Aa vaana vaalu ye vaipuko.. telchedi kaalamegaa
-
 O rendu prema meghaalilaa.. dookaayi vaanalaagaa
-
 Aa vaana vaalu ye vaipuko.. telchedi kaalamegaa
-
 Tochinde.. ee janta.. kalalake.. nijamulaa
-
 Saaginde daarantaa.. chelimike.. rujuvulaa
-
 Kanti reppa kanupaapalaagaa.. untaaremo kadadaaka
-
 Sandamaamaa sirivennelalaagaa.. vandellayinaa vidipokaa`},
         { title: "OY OY",cast:"Chandrabose,Siddharth, Prashanthini",image:"image7.jpg", src: "song9.mp3", lyrics :`Noota debbai aaru beach
 house lo prema devathaa
@@ -452,7 +438,69 @@ Puttene premaa padagottene premaa
 Emjesaavo emogadammaa
 Inthalo premaa anthalo komaa
 Athalaakuthalam avuthunnaanammaa` },
-        { title: "AVUNANAVAA",cast:"Ramajogayya Sastry,Sid Sriram",image:"image9.png", src: "song11.mp3" },
+        { title: "AVUNANAVAA",cast:"Ramajogayya Sastry,Sid Sriram",image:"image9.png", src: "song11.mp3", lyrics:`
+Dheemthanana Dhirana
+Dheemthanana Dhirana
+Dheemthanana Dheemthanana
+Dhire Dhire Naa
+
+Dheemthanana Dhirana
+Dheemthanana Dhirana
+Dheemthanana Dheemthanana
+Dhire Dhire Naa
+
+Hmm Mm Mm 
+Emani Anaalani
+Thochani Kshanaalivi
+Ye Malupo Edurayye
+Payanamidhaa
+
+Aamani Nuvvenani
+Nee Jatha Cheraalani
+Ye Thalapo Modhalayye
+Mounamidhaa
+
+Evo Guruthulu Nannadige Prashnalaki
+Nuvve Badhulani Raagalanaa Nee Dhariki
+Vidigaa Thadigaa Viraboose Kalaki
+Cheliyaa Nee Kaanthi Nandhinchavaa
+
+Avunanavaa Avunanavaa Avunanavaa
+Manasunu Sambaalinchava
+Avunanavaa Avunanavaa Avunanavaa
+Maralaa Premaga Sameepinchavaa
+
+Hmm Mm Mm 
+Thelise Lope Nuvu Theliselope
+Cheli Cheyi Jaarindhe Prapancham
+Kaliselope Manam Kaliselope Ilaa
+Edabaatai Ragilinadhe Kaalam
+
+Kannedhute Vajraani Kanugontu Unna
+Vethikaane O Theeraalani
+Nijamedho Thelisaaka Ipudantu Unna
+Ennatiki Nuvu Kaavaalani
+
+Avunanavaa Avunanavaa Avunanavaa
+Manasunu Sambaalinchavaa
+Avunanavaa Avunanavaa Avunanavaa
+Maralaa Premaga Sameepinchavaa
+
+Avunanavaa Avunanavaa Avunanavaa
+Dheemthanana Dhirana
+Dheemthanana Dhirana
+Dheemthanana Dheemthanana
+Dhire Dhire Naa
+
+Dheemthanana Dhirana
+Dheemthanana Dhirana
+Dheemthanana Dheemthanana
+Dhire Dhire Naa
+
+Avunanavaa Avunanavaa Avunanavaa
+Manasunu Sambaalinchavaa
+Avunanavaa Avunanavaa Avunanavaa
+Maralaa Premaga Sameepinchavaa`},
         { title: "CHIRUNAVVE VISIRAVE",cast:"Vijay Prakash",image:"image10.jpg", src: "song12.mp3" },
         { title: "KALALLO",cast:"Ananta Sriram,Kulkarni, Madhushree",image:"image11.jpg", src: "song13.mp3" },
         { title: "KANNULO UNNAVU",cast:"Hariharan,Saindhavi,Vijayalakshmi", image:"image12.jpg",src: "song14.mp3" },
