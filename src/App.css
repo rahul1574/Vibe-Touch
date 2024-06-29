@@ -298,7 +298,7 @@ p{
     bottom:90px;
   }
   .expanded {
-    height: 685px; /* Desired final height */
+    height: 686px; /* Desired final height */
   }
   .collapsed {
     height: 90px; /* Initial height */
