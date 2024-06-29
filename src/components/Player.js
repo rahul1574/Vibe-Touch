@@ -1060,7 +1060,36 @@ Inninaallu entha entha vechaayi
 Kallalone daagi unna ammaayi
 Sonthamalle cheruthuntey
 Praanamantha cheppaleni haayee`},
-        { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3" },
+        { title: "MEHABOOBA",cast:"Kinnal Raj,Ananya Bhat",image:"image1.png", src: "song25.mp3", lyrics :`
+Mande Gundelo
+Chirujallai Vastunna
+Nindu Kaugililo
+Marumalelo Poostunna
+Ey Alazadi Velanaina
+Talanimire Chelinai Lena
+Ni Alasata Tircha Lena
+Na Mamatala Odilona
+Mehabooba Main Teri Mehbooba
+Mehbooba Main Teri Mehbooba
+Mehbooba Main Teri Mehbooba
+Mehbooba Oh Main Teri Mehbooba
+Chanuvaina Vennello Challayani
+Alalai Na Dawanalam
+Uppenai Egasina Swasa Pavanalaku
+Jata Kavaali Andala Cheli Parimalam
+Reppale Muyani
+Vippu Kanudoyiki
+Laali Padaali
+Paruvala Gamada Vanam
+Viradhi Virudivaina
+Pasivadiga Ninu Chustunna
+Ni Ekantala Velite
+Porista Ikapaina
+Mehabooba Main Teri Mehbooba
+Mehbooba Main Teri Mehbooba
+Mehbooba Main Teri Mehbooba
+Mehbooba Oh Main Teri Mehbooba
+`},
         { title: "OH PREMA",cast:"Krishnakanth,Kapil Kapilan, Chinmayi",image:"image18.jpeg", src: "song26.mp3" },
         { title: "PREMISTHUNNA",cast:"Suresh Banisetti,P V N S Rohit", image:"image6.webp",src: "song27.mp3" },
         { title: "YEDHAKI OKA GAAYAM",cast:"Hesham Abdul Wahab,Divya S Menon", image:"image19.jpeg",src: "song28.mp3" },
