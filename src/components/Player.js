@@ -1302,7 +1302,49 @@ Inka inka alusai pothunnana
 Porapatunte manninchave…
 Manasantha mukkalu chesi pakkaku velathavenduku o nestham
 Vurinchi vuhalu penchi thappukupothavenduku aa pantham`},
-        { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image7.jpg", src: "song32.mp3" },
+        { title: "POVADHE PREMA",cast:"Vanamali,Yuvan Shankar Raja",image:"image7.jpg", src: "song32.mp3", lyrics :`Nannodhili nida vellipothondhaa
+Kannodhali choopu vellipothonda
+Vekuvane sandhe valipothondhe
+Chikatilo udhayamundipoyindhe
+Na yadhane
+Tholichina guruthika ninu thesthunna
+Ne jathalo
+Gadipina bathukika bali avuthunna
+
+Nuvvunte nenunta premaaaa
+Povodhe povodhe premaa
+
+
+Nannodhili nida vellipothondhaa
+Kannodhali chupu vellipothondaa
+
+
+Inni nallu ni vente
+Saguthunna na padham
+Venta padina adugeedhantundhe
+Oh oh oh
+Ninna dhaka ni rupam
+Nimpukunna kanu papee
+Nuvvu leka nanu niladhisthundhey
+
+
+Korukunna jeevithamee
+Cheruvaina ee kshaname
+Jaali leni vidhi rathee shapamainadhe
+Maru janmey
+Unnadhante brahma naina adigedhokkatey
+Janmantha
+Mammu thana aatalika sagani chote
+
+
+Nuvvunte nenunta premaa
+
+Povodhe povodhe premaa
+
+
+Nuvvunte neenunta premaa
+
+Povodhe povodhe prema`},
         { title: "PRAANAMA",cast:"Ananth Sreeram,Rahul Nambiar",image:"image5.jpeg",src: "song33.mp3" },
         { title: "RIBAPAPPA",cast:"Suresh Banisetti,Sri Krishna",image:"image6.webp", src: "song34.mp3" },
         { title: "CHANTI PILLALA",cast:"Suresh Banisetti,Anudeep Dev",image:"image6.webp", src: "song35.mp3" },
