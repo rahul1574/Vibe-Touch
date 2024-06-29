@@ -112,7 +112,182 @@ Baguntundhi nuvvu navvithe
 Baaguntundhi oosulaadithe
 Baaguntundhi gunde meedha
 Guvaalaaga nuvaa vaalithe`},
-        { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3" },
+        { title: " BHALEGUNDI BAALAA",cast:"Penchal Das,Penchal Das, Nutana Mohan",image:"image3.jpeg", src: "song4.mp3", lyrics :`
+Bhalegundi Baalaa Lyrics — Sreekaram | Penchal Das, Nutana Mohan
+leveluplyrics
+leveluplyrics
+
+·
+Follow
+
+2 min read
+·
+Mar 6, 2021
+
+Share
+
+
+Vachaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Vachhaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Katminda haan kataminda
+
+Valle kataminda vaiye alkalsilka
+
+Balegundi bala
+
+Daani edhaana
+
+Ha daani edhaana
+
+Ha daani edhaana vunde
+
+Poola poola raika bhalegundi baalaa
+
+Vachaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Vachhaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Katminda haan kataminda
+
+Valle kataminda vaiye alkalsilka
+
+Bhalegundi baalaa
+
+Daani edhaana
+
+Ha daani edhaana
+
+Ha daani edhaana vunde
+
+Poola poola raika bhalegundi baalaa
+
+Arre re re re re
+
+Naari naari vayyaari sundaree
+
+Navvu magumudaana
+
+Naari naari vayyaari sundaree
+
+Navvu magumudaana
+
+Ni navvomakam
+
+Ni navvomakam
+
+Ni navvomakammil angnachi alka
+
+Bhalegundi baalaa
+
+Ni navvomakammil angnachi alka
+
+Balegundi baalaa
+
+Vachhaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Katminda haan kataminda
+
+Valle kataminda vaiye alkalsilka
+
+Bhalegundi baalaa
+
+Daani edhaana vunde
+
+Pola pola raika bhalegundi baalaa
+
+Arre re re
+
+Arre re re arre arre arre arre
+
+Tikkaregi ekkinaavu komli
+
+Alaka nulaka mancham
+
+Tikkaregi ekkinaavu komli
+
+Alaka nulaka mancham
+
+Alasanda povanikku alatayelne
+
+Agudu se yethuguna
+
+Alasanda povanikku alatayelne
+
+Agudu se yethuguna
+
+Vachhaanantivo
+
+Arre vachhaanantivo
+
+Vachhaanantivo potaanantivo
+
+Vagalu palukutaave
+
+Kataminda vaiye alkalsilka
+
+Bhalegundi baalaa
+
+Daani edhaana vunde
+
+Pola pola raika bhalegundi baalaa
+
+Arre re re re re re
+
+Suruku soopu surakattulisarke
+
+Chinta ela baalaa
+
+Suruku soopu surakattulisarke
+
+Chinta ela baalaa
+
+Kaara maina mudhikara maina
+
+Mudhikara maina nee mooti rupulo
+
+Bhalegundi baalaa
+
+Nee alaka teeranu emi bharanamu
+
+Ivvagunanu bhaamaa
+
+Ennelainaa emanta nachhadu
+
+Ennelainaa emanta nachhadu
+
+Nuvvuleni chotaa
+
+Ennelainaa emanta nachhadu
+
+Nuvvuleni chotaa
+
+Nuvvu pakkanunte
+
+Nuvvu pakkanunte
+
+Nuvvu pakkanunte inkemi vaddule
+
+Chenta chevavaavaa
+
+Inkanaina pattinchukuntanani
+
+Maata ivvu maavaa
+
+Turrumanta paikeyipoddi
+
+Naa alaka chitikalona`},
         { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3" },
         { title: "HOSAAHOREY",cast:"Ananth Sreeram,K.K., Lesle Lewis", image:"image5.jpeg",src: "song6.mp3",lyrics:`Hosahare... Hosahore...
         Saadhinche sattuva unnadhi gundelalo
