@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className="navbar">
        <div to="/Intro" id="photo"></div>
        <Link  to="/Power" ><i id="three" class="fa-solid fa-power-off"></i></Link>
-       <Link to="/home"><i id="four" class="fa-solid fa-house"></i></Link>
+       <Link to="/home"><i id="two" class="fa-solid fa-house"></i></Link>
     </div>
     </>
   )
