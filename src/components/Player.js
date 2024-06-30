@@ -1752,37 +1752,17 @@ Samudbhavinche Avataaramidhe…` },
         setIsExpanded(false);
         setbtnexpand(false);
     };
-    const [color, setColor] = useState('#ffffff'); // Default color is white
-
-    useEffect(() => {
-      const interval = setInterval(() => {
-        const randomColor = getRandomColor();
-        setColor(randomColor);
-      }, 1500); // Change color every 2 seconds (adjust interval as needed)
-  
-      return () => clearInterval(interval);
-    }, []); // Empty dependency array ensures effect runs only once on mount
-  
-    const getRandomColor = () => {
-      const letters = '0123456789ABCDEF';
-      let randomColor = '#';
-      for (let i = 0; i < 6; i++) {
-        randomColor += letters[Math.floor(Math.random() * 16)];
-      }
-      return randomColor;
-    };
-
     return (
         <div>
             <div>
                 {playlist.map((song, index) => (
-                    <div key={index} className='box' style={{ height:"60px",fontSize:"18px",padding:"5px",backgroundColor:"transparent",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
+                    <div key={index} className='box' onClick={() => setCurrentSongIndex(index)}style={{ height:"60px",fontSize:"18px",padding:"5px",backgroundColor:"transparent",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
                         {song.title}
-                        <div key={index} onClick={() => setCurrentSongIndex(index)}  style={{fontFamily:"Helvetica",fontSize:"15px",color:"#8b8c89",display:"flex",flexDirection:"row",alignItems:"center",justifyContent:"space-between",backgroundColor:"transparent",position:"relative",bottom:"20px"}}>
+                        <div key={index} onClick={() => setCurrentSongIndex(index)}  style={{fontFamily:"Helvetica",fontSize:"15px",color:"#8b8c89",display:"flex",flexDirection:"row",alignItems:"flex-start",justifyContent:"space-between",backgroundColor:"transparent"}}>
                           {song.cast}
-                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"transparent",display:"flex",flexDirection:"row"}}>
+                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"90px",backgroundColor:"transparent",display:"flex",flexDirection:"row"}}>
+                              {/* <div style={{height:"auto",width:"40px",backgroundColor:"transparent",color:"white",border:"none"}}><img src='image24.jpeg' alt=" " style={{height:"50px",width:"40px"}}></img></div> */}
                              <img id="image-size" src={song.image} alt=""/>
-                             {/* <button style={{height:"auto",width:"40px",backgroundColor:"transparent",color:"white",border:"none"}}>▶</button> */}
                            </div>
                         </div>
                     </div>
@@ -1792,7 +1772,7 @@ Samudbhavinche Avataaramidhe…` },
             <div  className={`nowplay ${isExpanded ? 'expanded' : 'collapsed'}`} >
                 {currentSongIndex==null && (
                     <div id="man"  style={{ 
-                        backgroundColor: color, 
+                        // backgroundColor: color, 
                         display:"flex",
                         flexDirection:"row",
                         alignItems:"center",
@@ -1801,7 +1781,7 @@ Samudbhavinche Avataaramidhe…` },
                         <div>
                         <img id="play-walk" src="play-walk.gif" alt=" "/>
                          </div>
-                      </div>
+                    </div>
                 )}
                 {currentSongIndex !== null && (
                     <>
