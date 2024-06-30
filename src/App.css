@@ -343,6 +343,17 @@ p{
   border: none;
 
 }
+.songbtn3{
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  font-size: 15px;
+  border-radius: 50%;
+  border: none;
+  position: relative;
+  top:50px;
+  right: 90px;
+}
 .songbtn{
   background-color: white;
   height: 40px;
