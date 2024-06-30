@@ -1815,7 +1815,7 @@ Samudbhavinche Avataaramidhe…` },
                            )}
                            {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
                            <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
-                            {isExpanded && <button className="songbtn1" onClick={toggleLoop} style={{ marginLeft: '5px',position:"fixed",top:"420px"}}>
+                            {isExpanded && <button className="songbtn1" onClick={toggleLoop} style={{ marginLeft: '5px'}}>
                                 {loopEnabled ? '🔁' : '🔂'}
                             </button>}
                         </div>
