@@ -256,7 +256,7 @@ p{
 #man{
   height: 65px;
   width: 1550px;
-  /* background-color: white; */
+  background: linear-gradient(to bottom,black,white);
 }
 #play-walk{
   height: 70px;
