@@ -1809,13 +1809,13 @@ Samudbhavinche Avataaramidhe…` },
                         <div id="controlbtn">
                            <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
                            {isPlaying ? (
-                           <button  className="songbtn"onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
+                           <button  className="songbtn" onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
                            ) : (
-                           <button  className="songbtn"onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
+                           <button  className="songbtn" sonClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
                            )}
                            {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
                            <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
-                            {isExpanded && <button className="songbtn3" onClick={toggleLoop}}>
+                            {isExpanded && <button className="songbtn3" onClick={toggleLoop} style={{ marginLeft: '5px'}}>
                                 {loopEnabled ? '🔁' : '🔂'}
                             </button>}
                         </div>
