@@ -9,6 +9,7 @@ const AudioPlayer = () => {
     const [currentSongIndex, setCurrentSongIndex] = useState(null);
     const [currentTime, setCurrentTime] = useState(0);
     const [duration, setDuration] = useState(0);
+    const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
         { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png", lyrics:`
 Yadagara yadagara dinkara...
@@ -1752,6 +1753,12 @@ Samudbhavinche Avataaramidhe…` },
         setIsExpanded(false);
         setbtnexpand(false);
     };
+    const toggleLoop = () => {
+        setLoopEnabled(!loopEnabled);
+        audioRef.current.loop = !loopEnabled;
+
+    };
+
     return (
         <div>
             <div>
@@ -1760,7 +1767,7 @@ Samudbhavinche Avataaramidhe…` },
                         {song.title}
                         <div key={index} onClick={() => setCurrentSongIndex(index)}  style={{fontFamily:"Helvetica",fontSize:"15px",color:"#8b8c89",display:"flex",flexDirection:"row",alignItems:"flex-start",justifyContent:"space-between",backgroundColor:"transparent"}}>
                           {song.cast}
-                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"90px",backgroundColor:"transparent",display:"flex",flexDirection:"row"}}>
+                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"transparent",display:"flex",flexDirection:"row"}}>
                               {/* <div style={{height:"auto",width:"40px",backgroundColor:"transparent",color:"white",border:"none"}}><img src='image24.jpeg' alt=" " style={{height:"50px",width:"40px"}}></img></div> */}
                              <img id="image-size" src={song.image} alt=""/>
                            </div>
@@ -1808,6 +1815,9 @@ Samudbhavinche Avataaramidhe…` },
                            )}
                            {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
                            <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
+                            {isExpanded && <button className="songbtn1" onClick={toggleLoop} style={{ marginLeft: '5px'}}>
+                                {loopEnabled ? '🔁' : '🔂'}
+                            </button>}
                         </div>
                     </>
                     
