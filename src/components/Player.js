@@ -1771,19 +1771,20 @@ Samudbhavinche Avataaramidhe…` },
       }
       return randomColor;
     };
+
     return (
         <div>
             <div>
                 {playlist.map((song, index) => (
-                    <div key={index} className='box' onClick={() => setCurrentSongIndex(index)} style={{ height:"60px",padding:"5px",backgroundColor:"transparent",color:"white",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
+                    <div key={index} className='box' style={{ height:"60px",fontSize:"18px",padding:"5px",backgroundColor:"transparent",cursor: 'pointer', margin: '10px',display:"flex",justifyContent:"space-equaly",flexDirection:"column",border:"1px solid black"}}>
                         {song.title}
-                        <div key={index} onClick={() => setCurrentSongIndex(index)} style={{ fontFamily:"Helvetica",color:"#8b8c89",display:"flex",flexDirection:"row",justifyContent:"space-between"}}>
+                        <div key={index} onClick={() => setCurrentSongIndex(index)}  style={{fontFamily:"Helvetica",fontSize:"15px",color:"#8b8c89",display:"flex",flexDirection:"row",alignItems:"center",justifyContent:"space-between",backgroundColor:"transparent",position:"relative",bottom:"20px"}}>
                           {song.cast}
-                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"white"}}>
-                             <img id="image-size" src={song.image} alt=""/>  
+                           <div key={index} onClick={() => setCurrentSongIndex(index)} style={{height:"50px",width:"50px",backgroundColor:"transparent",display:"flex",flexDirection:"row"}}>
+                             <img id="image-size" src={song.image} alt=""/>
+                             {/* <button style={{height:"auto",width:"40px",backgroundColor:"transparent",color:"white",border:"none"}}>▶</button> */}
                            </div>
                         </div>
-                        
                     </div>
                 ))}
     
@@ -1805,7 +1806,7 @@ Samudbhavinche Avataaramidhe…` },
                 {currentSongIndex !== null && (
                     <>
                     <div>
-                       {isExpanded && <button className={`btn ${btnexpand ? 'expand' : 'collapse'}`}onClick={handleReset} style={{backgroundColor:"transparent",border:"none"}}><i class="fa-solid fa-xmark" style={{color:"black"}}></i></button>}
+                       {isExpanded && <button className={`btn ${btnexpand ? 'expand' : 'collapse'}`} onClick={handleReset} style={{backgroundColor:"transparent",border:"none"}}><i  id="close" class="fa-solid fa-xmark"></i></button>}
                     </div>
                     <button onClick={handleExpand} >
                         <img id="image-play" src="play.gif" alt=" "/>
@@ -1819,14 +1820,14 @@ Samudbhavinche Avataaramidhe…` },
                             <div id="flow">{playlist[currentSongIndex].lyrics}</div></div>}
                         {isExpanded && <div id="hide"></div>}
                         <div id="controlbtn">
-                          <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
+                           <button  className="songbtn1"onClick={prevSongHandler} disabled={currentSongIndex === null}>⏮</button>
                            {isPlaying ? (
-                          <button  className="songbtn"onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
+                           <button  className="songbtn"onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
                            ) : (
-                         <button  className="songbtn"onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
-                         )}
-                          {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
-                          <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
+                           <button  className="songbtn"onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
+                           )}
+                           {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
+                           <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
                         </div>
                     </>
                     
