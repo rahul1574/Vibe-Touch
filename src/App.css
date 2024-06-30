@@ -226,7 +226,8 @@ p{
   /* background-color: black; */
 }
 .nowplay{
-  background-color:#344e41;
+  /* background-color:#344e41; */
+  background: linear-gradient(to bottom,black,white);
   height: 65px;
   width: 1550px;
   position: fixed;
@@ -319,6 +320,9 @@ p{
   }
   #hide{
     height: 100px;
+  }
+  #close{
+    color: white;
   }
 }
 /* .expand{
@@ -448,8 +452,10 @@ li{
   width:30px;
 }
 .box{
-  transition: transform 2s ease;
+  transition: transform 1s ease;
+  color: white;
 }
 .box:active{
-  transform: scale(0);
+  transform: translateX(100px);
+  color: green;
 }
