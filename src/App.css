@@ -341,7 +341,8 @@ p{
   font-size: 15px;
   border-radius: 50%;
   border: none;
-
+  position: relative;
+  top:17px;
 }
 .songbtn3{
   background-color: white;
@@ -351,7 +352,7 @@ p{
   border-radius: 50%;
   border: none;
   position: relative;
-  top:50px;
+  top:45px;
   right: 90px;
 }
 .songbtn{
@@ -362,6 +363,8 @@ p{
   border-radius: 50%;
   border: none;
   margin: 5px;
+  position: relative;
+  bottom: 10px;
 }
 .songbtn:active{
   background-color: yellow;
