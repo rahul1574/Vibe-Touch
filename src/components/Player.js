@@ -11,6 +11,7 @@ const AudioPlayer = () => {
     const [duration, setDuration] = useState(0);
     const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
+        {title:"NAMMAVEMO",cast:"Saketh Vegi,Ananta Sriram",src:"song42.mp3",image:"image26.jpg"},
         { title:"CHEBUTHAAVA",cast:"Sinduri Vishal,Shreemani",src:"song41.mp3",image:"image25.jpeg", lyrics:`
 
 Chebuthaava.. Chebuthaava...
