@@ -81,7 +81,7 @@ Chebuthaava Chebuthaava
 Chebuthaava Chebuthaava
 Ee Saayam Endhuko
 Chebuthaava Chebuthaava
-Ee Sneham Enduko`}
+Ee Sneham Enduko`},
         { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png", lyrics:`
 Yadagara yadagara dinkara...
 Jagathike jyothiga nilawara...
