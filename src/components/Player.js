@@ -11,6 +11,77 @@ const AudioPlayer = () => {
     const [duration, setDuration] = useState(0);
     const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
+        { tittle:"CHEBUTHAAVA",cast:"Sinduri Vishal,Shreemani",src:"song41.mp3",image:"image41.jpeg", lyrics:`
+
+Chebuthaava Chebuthaava
+E Saayam Endhuko
+Chebuthaava Chebuthaava
+E Sneham Endhuko
+
+Chelimainaa Ledainaa
+Oka Kanchai Nilichaavu
+Nidurainaa Lekundaa
+Praanaale Parichaavu
+Okay Niidai Oka Thodai
+Adugesaa Vendhuko
+
+Chebuthaava Chebuthaava
+
+Chebuthaava Chebuthaava
+Ee Saayam Endhuko
+Chebuthaava Chebuthaava
+Ee Sneham Endhuko
+
+Reppe Kanuupapanu 
+Kaapaa Dettu Nanu Kaasaavu
+Vaanu Mattini Thadipettu
+Manasuni Thadipaavu
+
+ Nuvve Gudi Mundhara
+Niluchunnattu
+Nilabadathaavu
+Gaali Gandham Mosettu
+Nanu Mosthunnaavu
+
+Chinuku Chuttoo Megham Vala
+Thaara Chuttoo AA Ningila
+Naaku Chuttu  Nuvve Ila
+Kavachamai Nilichaa Enthalaa
+
+Okay Dhaiyam Oka Sainyam
+Nuvvaiyyav Endhuko
+Chebuthaava Chebuthaava
+
+Chebuthaava Chebuthaava
+Ee Saayam Endhuko
+Chebuthaava Chebuthaava
+Ee Sneham Enduko
+
+
+Ah… Ah…
+Yedho Abhimaanam Naa Pai
+Neelo Choosthunnaale
+Yenti Kaaraname Ante
+Badhule Theliyadhule
+
+Kaalam Parichayame
+Ye Kadha Kosam Jaripisthundho
+Yenti Aa Kadhanam Ante
+Oohaku Andhadhule
+
+Pramidhalo Deepam Nenule
+Jorugaa Veeche Gaalule
+Vaaluga Nee Arachethule
+Aapadhe Aapesaayile
+Praanamlo Praanamla
+Nanu Chhoosthaa Vendhuko
+
+Chebuthaava Chebuthaava
+
+Chebuthaava Chebuthaava
+Ee Saayam Endhuko
+Chebuthaava Chebuthaava
+Ee Sneham Enduko`}
         { title: "YADAGARA YADAGARA",cast:"Ramajogayya Sastry,Suchetha Basrur",src: "Song1.mp3",image:"image1.png", lyrics:`
 Yadagara yadagara dinkara...
 Jagathike jyothiga nilawara...
