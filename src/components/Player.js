@@ -11,7 +11,7 @@ const AudioPlayer = () => {
     const [duration, setDuration] = useState(0);
     const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
-        { title:"CHEBUTHAAVA",cast:"Sinduri Vishal,Shreemani",src:"song41.mp3",image:"image41.jpeg", lyrics:`
+        { title:"CHEBUTHAAVA",cast:"Sinduri Vishal,Shreemani",src:"song25.mp3",image:"image41.jpeg", lyrics:`
 
 Chebuthaava Chebuthaava
 E Saayam Endhuko
