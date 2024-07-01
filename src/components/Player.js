@@ -196,7 +196,7 @@ Inkanaina pattinchukuntanani
 Maata ivvu maavaa...
 Turrumanta paikeyipoddi
 Naa alaka chitikalona....`},
-        { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3" },
+        { title: "HI NANNA GLIMPSE",cast:"Hesham Abdul Wahab",image:"image4.jpg",src: "song5.mp3", lyrics :`sorry! No lyrics found 😥`},
         { title: "HOSAAHOREY",cast:"Ananth Sreeram,K.K., Lesle Lewis", image:"image5.jpeg",src: "song6.mp3",lyrics:`
         Hosahare..... Hosahore.....
         Saadhinche sattuva unnadhi gundelalo..
