@@ -11,7 +11,34 @@ const AudioPlayer = () => {
     const [duration, setDuration] = useState(0);
     const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
-        {title:"NAMMAVEMO",cast:"Saketh Vegi,Ananta Sriram",src:"song42.mp3",image:"image26.jpg"},
+        {title:"NAMMAVEMO",cast:"Saketh Vegi,Ananta Sriram",src:"song42.mp3",image:"image26.jpg", lyrics:`
+        nammavemo gani andaala yuvarani
+nelapai vaalindi naa munde virisindi
+nammavemo gani andaala yuvarani
+nelapai vaalindi naa munde virisindi
+anduke amaantham na madi .. akkade nissabdam ayinadi
+enduko prapancham annadi .. ikkade ilage natho undi
+nijamga kallato vinta ga mantramesindi
+adedo mayalo nannila munchivesindi
+nijamga kallato vinta ga mantramesindi
+adedo mayalo nannila munchivesindi
+
+navvulu vendi baanalayi naatukupothunte
+chempalu kempu naanalai kaanthi ni isthunte
+choopulu thene daaralai alluku pothunte
+roopam eedu bharalayi mundara niluchunte
+aa soyaganne ne choodagane .. O raayi laaga ayyaanu nene
+adiga paadamuni adugu veyamani kadalaledu telusa
+nijamga kallato vinta ga mantramesindi
+adedo maayalo nannila munchivesindi
+vekuva lona akasam aamenu cherindi
+o kshanamayina adharala ranguni immandi
+vesavi paapam chali vesi aamenu vedindi
+swasala lona thaladachi jaaliga koorchundi
+aa andamantha na sonthamaithe .. anandamayina vandellu naade
+kalala thaakidini manasu thaaladika vethiki choodu chelimi
+nijamga kallato vinta ga mantramesindi
+adedo maayalo nannila munchivesindi`},
         { title:"CHEBUTHAAVA",cast:"Sinduri Vishal,Shreemani",src:"song41.mp3",image:"image25.jpeg", lyrics:`
 
 Chebuthaava.. Chebuthaava...
