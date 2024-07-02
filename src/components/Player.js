@@ -1910,7 +1910,7 @@ Samudbhavinche Avataaramidhe…` },
                            {isPlaying ? (
                            <button  className="songbtn" onClick={pauseHandler} disabled={currentSongIndex === null}>⏸️</button>
                            ) : (
-                           <button  className="songbtn" sonClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
+                           <button  className="songbtn" onClick={playHandler} disabled={currentSongIndex === null}>▶️</button>
                            )}
                            {/* <button  className="songbtn"onClick={handleplay} disabled={currentSongIndex === null}>⏹️</button> */}
                            <button  className="songbtn1"onClick={nextSongHandler} disabled={currentSongIndex === null}>⏭</button>
