@@ -11,7 +11,7 @@ const AudioPlayer = () => {
     const [duration, setDuration] = useState(0);
     const [loopEnabled, setLoopEnabled] = useState(false);
     const playlist = [
-        {title:"MY NAME IS BILLA",cast:"Ranjith, Naveen Madhav",src:"song43.mp3",image:"image27.jpg"}
+        {title:"MY NAME IS BILLA",cast:"Ranjith, Naveen Madhav",src:"song43.mp3",image:"image27.jpg"},
             {title:"NAMMAVEMO",cast:"Saketh Vegi,Ananta Sriram",src:"song42.mp3",image:"image26.jpg",lyrics:`
  nammavemo gani andaala yuvarani
 nelapai vaalindi naa munde virisindi
