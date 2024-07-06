@@ -14,65 +14,44 @@ const AudioPlayer = () => {
         {title:"MY NAME IS BILLA",cast:"Ranjith, Naveen Madhav",src:"song43.mp3",image:"image27.jpg", lyrics:`
 Nenunde Stylaa ilaa...
 Yedigaane neyanthala
-yevaraina salaam aneyla
-
+yevaraina salaam aneyla....
 Adugadugu Okela
 nadavanuga yevela
-yevaru nanu Oohinchela
-
-
-Ne vala visirithe vila vila
-Ne nala kadilithe hala gula
-
+yevaru nanu Oohinchela...
+Ne... vala visirithe vila vila
+Ne... nala kadilithe hala gula
 My Name is Billa B for Billa ...
 Okate sainyam la vachhanilla....
-
 My Name is Billa Bijili Billa ...
-
 Merupe Manishaithe vuntaadila....
-
-
-Enemy yevvadaina
-Yamudini nenenanta
-Danger khatham chupistha
-
-Bhayame nakeduraina
-daanne banthAAdestha
-paathaalamlo paathestha
-
-na kadam piduguku chali jwaram
-AAyudham naakadi AAroprAAnam
-
+Enemy yevvadaina..
+Yamudini nenenanta..
+Danger khatham chupistha....
+Bhayame nakeduraina..
+daanne banthAAdestha..
+paathaalamlo paathestha....
+na.. kadam piduguku chali jwaram
+AAyudham... naakadi AAroprAAnam
 My Name is Billa Thunder Billa....
-Naake edurochhi nilichedela
-
+Naake edurochhi nilichedela..
 My Name is Billa Thunder Billa...
 Panja guri pedithe thappedela
-
-
 [You are born to rule,
 Deadly Billa Only billa,
 You are born to rule
 You are too cool to be
 for billa, Thunderilla,
 You are too cool...........]
-
-
-Manishini nammanu nenu
-manassunu vaadanu nenu
-needai nanne chusthunta
-
-Mudo kanne kannu
-muppe rAAnivvanu
+Manishini nammanu nenu..
+manassunu vaadanu nenu..
+needai nanne chusthunta....
+Mudo kanne kannu..
+muppe rAAnivvanu..
 maranam paine gelusthAA...
-
-Naa gatham ninnati thone khatham
+Naa... gatham ninnati thone khatham
 ee kshanam repo raade ranam
-
-
-My Name is Billa Deadly Billa..
+My Name is Billa.. Deadly Billa..
 Dooke Laava ni aapedelaa
-
 My Name is Billa Only Billa...
 Yepudem chesthano cheppedelaa..`},
             {title:"NAMMAVEMO",cast:"Saketh Vegi,Ananta Sriram",src:"song42.mp3",image:"image26.jpg",lyrics:`
