@@ -1965,7 +1965,7 @@ Samudbhavinche Avataaramidhe…` },
                     
                 )}
             </div>
-            <audio id='play'
+            <input type="range" id='play'
                 ref={audioRef}
                 src={currentSongIndex !== null ? playlist[currentSongIndex].src : ''}
                 onEnded={onEndedHandler}
