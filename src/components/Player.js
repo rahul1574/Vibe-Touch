@@ -1972,7 +1972,7 @@ Samudbhavinche Avataaramidhe…` },
                 onPause={() => setIsPlaying(false)}
                 onPlay={() => setIsPlaying(true)}
                 controls 
-            /audio><input>
+            /><input>
         </div>
         
     );
