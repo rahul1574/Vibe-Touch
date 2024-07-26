@@ -1965,14 +1965,14 @@ Samudbhavinche Avataaramidhe…` },
                     
                 )}
             </div>
-            <input type="range"><audio id='play'
+            <audio id='play'
                 ref={audioRef}
                 src={currentSongIndex !== null ? playlist[currentSongIndex].src : ''}
                 onEnded={onEndedHandler}
                 onPause={() => setIsPlaying(false)}
                 onPlay={() => setIsPlaying(true)}
                 controls 
-            /><input>
+            />
         </div>
         
     );
